@@ -1,0 +1,21 @@
+Comunas:
+
+aysén
+llay llay
+los álamos
+los ángeles
+ollagüe
+paihuano
+teodoro schmidt
+trehuaco
+
+
+Etnias:
+
+aymara
+atacameño(likán-antai)
+colla
+kawashkar(alacalufes)
+No sabe/no responde
+rapa nui(pascuense)
+yagán(yámana)

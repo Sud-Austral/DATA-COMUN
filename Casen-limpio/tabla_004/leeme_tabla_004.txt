@@ -1,0 +1,8 @@
+
+El año 2006 presenta valores corruptos para la comuna de Primavera.
+Éste es un hecho común. 
+Se extraerán del excel éstos valores.
+Se informará cada vez que se extraigan. 
+
+Los años 2006 y 2009 poseen distintas y menos 
+categorias de respuestas, pero que responden bien a los mismo.

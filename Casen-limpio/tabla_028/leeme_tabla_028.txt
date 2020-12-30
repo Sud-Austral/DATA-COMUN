@@ -1,0 +1,16 @@
+la pregunta es:
+
+¿Habla o entiende algunas de las siguientes lenguas: …
+
+1 Habla y entiende
+2 Sólo entiende
+3 No habla ni entiende
+
+Corresponden a:
+
+2017	r4
+2015	r4
+2013	r7
+2011	r7
+2009	t6
+2006	t5 

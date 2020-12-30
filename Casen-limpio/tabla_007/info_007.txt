@@ -1,0 +1,6 @@
+La variable e9com_p_cod 
+
+Código de País de establecimiento educacional
+
+solo se encuentra para el año 2017 
+y no existe equivalente para el resto de casen  

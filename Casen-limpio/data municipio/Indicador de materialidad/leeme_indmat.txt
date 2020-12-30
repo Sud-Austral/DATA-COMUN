@@ -1,0 +1,1 @@
+Indicador de materialidad (IM) "indmat" no esta declarado para casen de 2006

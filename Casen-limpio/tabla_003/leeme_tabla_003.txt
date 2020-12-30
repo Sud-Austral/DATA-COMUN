@@ -1,0 +1,6 @@
+la pregunta:
+
+¿Cuál es el nombre de la carrera o programa de estudios? (Cod sub-área)
+
+sólo aparece en las Casen de los años 2017 y 2015, bajo los códigos
+e7_subarea y e6c_cod respectivamente.

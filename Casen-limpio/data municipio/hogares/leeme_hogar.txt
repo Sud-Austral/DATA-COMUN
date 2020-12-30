@@ -1,0 +1,32 @@
+La variable "hogar" no aparece en la casen 2006
+
+La variable "hogar" aparece en la casen 2009
+
+en la casen 2013 el hogar se denomina "folio" pero muestra
+un código que no podemos interpretar.
+
+en la casen del 2015 y 2017 aparecen tanto folio como hogar. 
+En estos años consideraremos hogar.
+
+
+La interpretación de ésta tabla requiere detenimiento:
+
+Veamos la definición de hogar:
+
+Hogar: Grupo de personas, parientes o no, que habitan la misma vivienda y 
+tienen presupuesto de alimentación común o personas que viven solas. 
+Puede ocurrir que uno o más hogares habiten una vivienda; 
+sin embargo, un hogar no puede habitar más de una vivienda.
+
+Supongamos la siguiente línea de salida:
+
+comuna		hogares		sexo	Freq
+Algarrobo 	1 		Hombre 	7302 
+
+La interpretación de la tabla es la siguiente: 
+
+En Algarrobo deben existir viviendas con diferente cantidad de hogares en ellas, 1, 2, 3 o más.
+y cada persona encuestada puede pertenecer a uno de ellos.
+
+La salida nos dice que existen 7302 hombres en la comuna de Algarrobo que pertenecen al hogar 
+número 1 de la vivienda en la que habitan.

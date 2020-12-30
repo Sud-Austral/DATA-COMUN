@@ -1,0 +1,11 @@
+
+La lectura de ésta tabla es compleja.
+
+La primera categoría como siempre es Comunas, luego viene el
+'Código de Comuna de establecimiento educacional', 
+que viene expresado por su nombre.
+Luego viene el país de origen del extranjero y por último el sexo.
+
+Para los años 2006 y 2009 no se logra identificar 
+la variable 'Código de Comuna de establecimiento educacional'
+

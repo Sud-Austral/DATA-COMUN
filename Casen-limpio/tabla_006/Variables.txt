@@ -1,0 +1,5 @@
+e5 ¿Cuál es la principal razón por la
+cual no asiste actualmente a algún establecimiento educacional?
+
+r3 “En Chile, la ley reconoce nueve pueblos indígenas, 
+¿pertenece usted o es descendiente de alguno de ellos?”

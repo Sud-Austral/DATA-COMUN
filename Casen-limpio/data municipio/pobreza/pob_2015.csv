@@ -1,0 +1,557 @@
+"a","unlist.b.","unlist.c.","unlist.d.","Freq","anio","codigo"
+"alto hospicio","no pobre","no pobre","mujer",42551,"2015",1107
+"alto hospicio","pobre","pobre","mujer",11052,"2015",1107
+"alto hospicio","pobre","pobre","hombre",12384,"2015",1107
+"alto hospicio","no pobre","no pobre","hombre",43272,"2015",1107
+"ancud","pobre","pobre","mujer",5057,"2015",10202
+"ancud","no pobre","no pobre","hombre",14333,"2015",10202
+"ancud","pobre","pobre","hombre",4205,"2015",10202
+"ancud","no pobre","no pobre","mujer",15674,"2015",10202
+"angol","pobre","pobre","hombre",3933,"2015",9201
+"angol","no pobre","no pobre","hombre",18003,"2015",9201
+"angol","no pobre","no pobre","mujer",21692,"2015",9201
+"angol","pobre","pobre","mujer",3960,"2015",9201
+"antofagasta","pobre","pobre","mujer",24951,"2015",2101
+"antofagasta","no pobre","no pobre","mujer",166192,"2015",2101
+"antofagasta","pobre","pobre","hombre",25007,"2015",2101
+"antofagasta","no pobre","no pobre","hombre",151370,"2015",2101
+"arauco","no pobre","no pobre","hombre",17170,"2015",8202
+"arauco","no pobre","no pobre","mujer",20491,"2015",8202
+"arauco","pobre","pobre","hombre",1824,"2015",8202
+"arauco","pobre","pobre","mujer",1795,"2015",8202
+"arica","pobre","pobre","mujer",14668,"2015",15101
+"arica","no pobre","no pobre","mujer",64898,"2015",15101
+"arica","no pobre","no pobre","hombre",64712,"2015",15101
+"arica","pobre","pobre","hombre",14363,"2015",15101
+"aysén","no pobre","no pobre","mujer",10554,"2015",11201
+"aysén","no pobre","no pobre","hombre",9900,"2015",11201
+"aysén","pobre","pobre","hombre",2833,"2015",11201
+"aysén","pobre","pobre","mujer",2882,"2015",11201
+"calama","pobre","pobre","hombre",14095,"2015",2201
+"calama","no pobre","no pobre","hombre",53921,"2015",2201
+"calama","pobre","pobre","mujer",12908,"2015",2201
+"calama","no pobre","no pobre","mujer",60012,"2015",2201
+"calbuco","pobre","pobre","hombre",6810,"2015",10102
+"calbuco","no pobre","no pobre","mujer",11228,"2015",10102
+"calbuco","no pobre","no pobre","hombre",11311,"2015",10102
+"calbuco","pobre","pobre","mujer",6167,"2015",10102
+"calera","no pobre","no pobre","mujer",21227,"2015",5502
+"calera","no pobre","no pobre","hombre",19530,"2015",5502
+"calera","pobre","pobre","hombre",7535,"2015",5502
+"calera","pobre","pobre","mujer",7224,"2015",5502
+"cañete","no pobre","no pobre","hombre",11730,"2015",8203
+"cañete","no pobre","no pobre","mujer",12792,"2015",8203
+"cañete","pobre","pobre","hombre",4324,"2015",8203
+"cañete","pobre","pobre","mujer",4581,"2015",8203
+"carahue","no pobre","no pobre","hombre",6734,"2015",9102
+"carahue","no pobre","no pobre","mujer",7542,"2015",9102
+"carahue","pobre","pobre","hombre",4592,"2015",9102
+"carahue","pobre","pobre","mujer",4250,"2015",9102
+"castro","no pobre","no pobre","hombre",20735,"2015",10201
+"castro","pobre","pobre","hombre",5032,"2015",10201
+"castro","no pobre","no pobre","mujer",23257,"2015",10201
+"castro","pobre","pobre","mujer",5387,"2015",10201
+"cauquenes","no pobre","no pobre","hombre",14699,"2015",7201
+"cauquenes","pobre","pobre","hombre",4636,"2015",7201
+"cauquenes","no pobre","no pobre","mujer",17145,"2015",7201
+"cauquenes","pobre","pobre","mujer",4432,"2015",7201
+"cerro navia","no pobre","no pobre","mujer",44314,"2015",13103
+"cerro navia","no pobre","no pobre","hombre",40767,"2015",13103
+"cerro navia","pobre","pobre","mujer",21113,"2015",13103
+"cerro navia","pobre","pobre","hombre",15738,"2015",13103
+"chañaral","pobre","pobre","mujer",1314,"2015",3201
+"chañaral","no pobre","no pobre","mujer",4761,"2015",3201
+"chañaral","pobre","pobre","hombre",1163,"2015",3201
+"chañaral","no pobre","no pobre","hombre",4201,"2015",3201
+"chiguayante","pobre","pobre","hombre",7846,"2015",8103
+"chiguayante","no pobre","no pobre","mujer",62636,"2015",8103
+"chiguayante","no pobre","no pobre","hombre",57976,"2015",8103
+"chiguayante","pobre","pobre","mujer",10328,"2015",8103
+"chile chico","pobre","pobre","hombre",338,"2015",11401
+"chile chico","no pobre","no pobre","mujer",2286,"2015",11401
+"chile chico","no pobre","no pobre","hombre",2238,"2015",11401
+"chile chico","pobre","pobre","mujer",222,"2015",11401
+"chillán","pobre","pobre","hombre",13489,"2015",16101
+"chillán","pobre","pobre","mujer",14237,"2015",16101
+"chillán","no pobre","no pobre","mujer",79124,"2015",16101
+"chillán","no pobre","no pobre","hombre",63989,"2015",16101
+"chillán viejo","no pobre","no pobre","hombre",13976,"2015",16103
+"chillán viejo","pobre","pobre","hombre",2332,"2015",16103
+"chillán viejo","no pobre","no pobre","mujer",14622,"2015",16103
+"chillán viejo","pobre","pobre","mujer",2251,"2015",16103
+"chimbarongo","no pobre","no pobre","mujer",14038,"2015",6303
+"chimbarongo","pobre","pobre","mujer",4261,"2015",6303
+"chimbarongo","pobre","pobre","hombre",4030,"2015",6303
+"chimbarongo","no pobre","no pobre","hombre",12248,"2015",6303
+"cochrane","no pobre","no pobre","hombre",934,"2015",11301
+"cochrane","pobre","pobre","hombre",326,"2015",11301
+"cochrane","no pobre","no pobre","mujer",934,"2015",11301
+"cochrane","pobre","pobre","mujer",299,"2015",11301
+"codegua","no pobre","no pobre","mujer",5096,"2015",6102
+"codegua","pobre","pobre","mujer",1363,"2015",6102
+"codegua","no pobre","no pobre","hombre",5315,"2015",6102
+"codegua","pobre","pobre","hombre",1249,"2015",6102
+"colbún","no pobre","no pobre","hombre",6671,"2015",7402
+"colbún","pobre","pobre","mujer",2653,"2015",7402
+"colbún","pobre","pobre","hombre",1896,"2015",7402
+"colbún","no pobre","no pobre","mujer",7164,"2015",7402
+"colina","pobre","pobre","mujer",15777,"2015",13301
+"colina","no pobre","no pobre","mujer",42906,"2015",13301
+"colina","pobre","pobre","hombre",16690,"2015",13301
+"colina","no pobre","no pobre","hombre",42815,"2015",13301
+"collipulli","pobre","pobre","hombre",2690,"2015",9202
+"collipulli","no pobre","no pobre","hombre",5810,"2015",9202
+"collipulli","pobre","pobre","mujer",2664,"2015",9202
+"collipulli","no pobre","no pobre","mujer",6628,"2015",9202
+"coltauco","no pobre","no pobre","mujer",6743,"2015",6104
+"coltauco","pobre","pobre","mujer",1995,"2015",6104
+"coltauco","no pobre","no pobre","hombre",6679,"2015",6104
+"coltauco","pobre","pobre","hombre",2028,"2015",6104
+"concepción","pobre","pobre","hombre",14014,"2015",8101
+"concepción","no pobre","no pobre","hombre",84623,"2015",8101
+"concepción","pobre","pobre","mujer",14058,"2015",8101
+"concepción","no pobre","no pobre","mujer",101983,"2015",8101
+"conchalí","pobre","pobre","hombre",8908,"2015",13104
+"conchalí","no pobre","no pobre","hombre",33845,"2015",13104
+"conchalí","no pobre","no pobre","mujer",38879,"2015",13104
+"conchalí","pobre","pobre","mujer",10186,"2015",13104
+"concón","pobre","pobre","mujer",5045,"2015",5103
+"concón","no pobre","no pobre","mujer",33049,"2015",5103
+"concón","no pobre","no pobre","hombre",28438,"2015",5103
+"concón","pobre","pobre","hombre",4634,"2015",5103
+"constitución","pobre","pobre","hombre",5644,"2015",7102
+"constitución","no pobre","no pobre","hombre",22295,"2015",7102
+"constitución","no pobre","no pobre","mujer",21997,"2015",7102
+"constitución","pobre","pobre","mujer",5873,"2015",7102
+"copiapó","pobre","pobre","mujer",19727,"2015",3101
+"copiapó","no pobre","no pobre","mujer",69656,"2015",3101
+"copiapó","pobre","pobre","hombre",18781,"2015",3101
+"copiapó","no pobre","no pobre","hombre",62398,"2015",3101
+"coquimbo","pobre","pobre","mujer",26851,"2015",4102
+"coquimbo","no pobre","no pobre","mujer",91612,"2015",4102
+"coquimbo","pobre","pobre","hombre",25211,"2015",4102
+"coquimbo","no pobre","no pobre","hombre",86596,"2015",4102
+"coronel","no pobre","no pobre","hombre",46350,"2015",8102
+"coronel","pobre","pobre","hombre",5163,"2015",8102
+"coronel","pobre","pobre","mujer",5766,"2015",8102
+"coronel","no pobre","no pobre","mujer",50479,"2015",8102
+"coyhaique","pobre","pobre","mujer",3565,"2015",11101
+"coyhaique","no pobre","no pobre","mujer",27618,"2015",11101
+"coyhaique","no pobre","no pobre","hombre",22766,"2015",11101
+"coyhaique","pobre","pobre","hombre",3366,"2015",11101
+"cunco","pobre","pobre","hombre",2170,"2015",9103
+"cunco","pobre","pobre","mujer",2294,"2015",9103
+"cunco","no pobre","no pobre","mujer",6845,"2015",9103
+"cunco","no pobre","no pobre","hombre",5083,"2015",9103
+"curacautín","no pobre","no pobre","mujer",6034,"2015",9203
+"curacautín","no pobre","no pobre","hombre",5086,"2015",9203
+"curacautín","pobre","pobre","mujer",1286,"2015",9203
+"curacautín","pobre","pobre","hombre",1842,"2015",9203
+"curanilahue","no pobre","no pobre","hombre",10678,"2015",8205
+"curanilahue","pobre","pobre","hombre",3212,"2015",8205
+"curanilahue","no pobre","no pobre","mujer",11405,"2015",8205
+"curanilahue","pobre","pobre","mujer",3107,"2015",8205
+"curicó","pobre","pobre","hombre",10713,"2015",7301
+"curicó","no pobre","no pobre","mujer",64658,"2015",7301
+"curicó","pobre","pobre","mujer",9971,"2015",7301
+"curicó","no pobre","no pobre","hombre",58418,"2015",7301
+"el bosque","pobre","pobre","hombre",19337,"2015",13105
+"el bosque","no pobre","no pobre","mujer",58713,"2015",13105
+"el bosque","pobre","pobre","mujer",19657,"2015",13105
+"el bosque","no pobre","no pobre","hombre",53961,"2015",13105
+"el quisco","pobre","pobre","hombre",994,"2015",5604
+"el quisco","pobre","pobre","mujer",1119,"2015",5604
+"el quisco","no pobre","no pobre","hombre",6855,"2015",5604
+"el quisco","no pobre","no pobre","mujer",8438,"2015",5604
+"estación central","no pobre","no pobre","mujer",44852,"2015",13106
+"estación central","pobre","pobre","mujer",6397,"2015",13106
+"estación central","no pobre","no pobre","hombre",36269,"2015",13106
+"estación central","pobre","pobre","hombre",7522,"2015",13106
+"freire","pobre","pobre","hombre",4448,"2015",9105
+"freire","pobre","pobre","mujer",3863,"2015",9105
+"freire","no pobre","no pobre","hombre",8872,"2015",9105
+"freire","no pobre","no pobre","mujer",9293,"2015",9105
+"frutillar","pobre","pobre","mujer",1766,"2015",10105
+"frutillar","no pobre","no pobre","hombre",7019,"2015",10105
+"frutillar","pobre","pobre","hombre",1941,"2015",10105
+"frutillar","no pobre","no pobre","mujer",7108,"2015",10105
+"graneros","pobre","pobre","mujer",2878,"2015",6106
+"graneros","no pobre","no pobre","hombre",10959,"2015",6106
+"graneros","pobre","pobre","hombre",3784,"2015",6106
+"graneros","no pobre","no pobre","mujer",13931,"2015",6106
+"hualpén","pobre","pobre","hombre",5446,"2015",8112
+"hualpén","pobre","pobre","mujer",6107,"2015",8112
+"hualpén","no pobre","no pobre","hombre",32782,"2015",8112
+"hualpén","no pobre","no pobre","mujer",35823,"2015",8112
+"illapel","no pobre","no pobre","mujer",12341,"2015",4201
+"illapel","pobre","pobre","hombre",3214,"2015",4201
+"illapel","no pobre","no pobre","hombre",10338,"2015",4201
+"illapel","pobre","pobre","mujer",3483,"2015",4201
+"iquique","no pobre","no pobre","hombre",69134,"2015",1101
+"iquique","pobre","pobre","mujer",15675,"2015",1101
+"iquique","no pobre","no pobre","mujer",72684,"2015",1101
+"iquique","pobre","pobre","hombre",13501,"2015",1101
+"la florida","no pobre","no pobre","mujer",177584,"2015",13110
+"la florida","pobre","pobre","mujer",32614,"2015",13110
+"la florida","no pobre","no pobre","hombre",141940,"2015",13110
+"la florida","pobre","pobre","hombre",32302,"2015",13110
+"la granja","no pobre","no pobre","hombre",42153,"2015",13111
+"la granja","pobre","pobre","hombre",12754,"2015",13111
+"la granja","pobre","pobre","mujer",15578,"2015",13111
+"la granja","no pobre","no pobre","mujer",44470,"2015",13111
+"la ligua","pobre","pobre","mujer",3884,"2015",5401
+"la ligua","no pobre","no pobre","hombre",13676,"2015",5401
+"la ligua","no pobre","no pobre","mujer",15889,"2015",5401
+"la ligua","pobre","pobre","hombre",4160,"2015",5401
+"la pintana","pobre","pobre","hombre",37662,"2015",13112
+"la pintana","no pobre","no pobre","mujer",65940,"2015",13112
+"la pintana","no pobre","no pobre","hombre",55739,"2015",13112
+"la pintana","pobre","pobre","mujer",39489,"2015",13112
+"la serena","no pobre","no pobre","hombre",82753,"2015",4101
+"la serena","pobre","pobre","mujer",26185,"2015",4101
+"la serena","pobre","pobre","hombre",24946,"2015",4101
+"la serena","no pobre","no pobre","mujer",93027,"2015",4101
+"la unión","pobre","pobre","mujer",5327,"2015",14201
+"la unión","no pobre","no pobre","mujer",13556,"2015",14201
+"la unión","pobre","pobre","hombre",4370,"2015",14201
+"la unión","no pobre","no pobre","hombre",12497,"2015",14201
+"laja","no pobre","no pobre","hombre",7183,"2015",8304
+"laja","pobre","pobre","mujer",1596,"2015",8304
+"laja","no pobre","no pobre","mujer",7709,"2015",8304
+"laja","pobre","pobre","hombre",1725,"2015",8304
+"las condes","no pobre","no pobre","mujer",147448,"2015",13114
+"las condes","pobre","pobre","mujer",5932,"2015",13114
+"las condes","pobre","pobre","hombre",5601,"2015",13114
+"las condes","no pobre","no pobre","hombre",121870,"2015",13114
+"lautaro","no pobre","no pobre","hombre",10150,"2015",9108
+"lautaro","pobre","pobre","mujer",7205,"2015",9108
+"lautaro","pobre","pobre","hombre",6296,"2015",9108
+"lautaro","no pobre","no pobre","mujer",12393,"2015",9108
+"lebu","pobre","pobre","mujer",3105,"2015",8201
+"lebu","pobre","pobre","hombre",3551,"2015",8201
+"lebu","no pobre","no pobre","hombre",8186,"2015",8201
+"lebu","no pobre","no pobre","mujer",8607,"2015",8201
+"limache","pobre","pobre","mujer",4503,"2015",5802
+"limache","no pobre","no pobre","mujer",18809,"2015",5802
+"limache","no pobre","no pobre","hombre",17834,"2015",5802
+"limache","pobre","pobre","hombre",4537,"2015",5802
+"linares","pobre","pobre","hombre",10054,"2015",7401
+"linares","no pobre","no pobre","mujer",34317,"2015",7401
+"linares","pobre","pobre","mujer",10842,"2015",7401
+"linares","no pobre","no pobre","hombre",31839,"2015",7401
+"llanquihue","pobre","pobre","mujer",1442,"2015",10107
+"llanquihue","no pobre","no pobre","hombre",7519,"2015",10107
+"llanquihue","pobre","pobre","hombre",1356,"2015",10107
+"llanquihue","no pobre","no pobre","mujer",8153,"2015",10107
+"los andes","no pobre","no pobre","mujer",34929,"2015",5301
+"los andes","pobre","pobre","hombre",2818,"2015",5301
+"los andes","no pobre","no pobre","hombre",30707,"2015",5301
+"los andes","pobre","pobre","mujer",3460,"2015",5301
+"los Ángeles","pobre","pobre","mujer",19736,"2015",8301
+"los Ángeles","pobre","pobre","hombre",18866,"2015",8301
+"los Ángeles","no pobre","no pobre","hombre",78195,"2015",8301
+"los Ángeles","no pobre","no pobre","mujer",86695,"2015",8301
+"los lagos","pobre","pobre","mujer",2200,"2015",14104
+"los lagos","no pobre","no pobre","mujer",8616,"2015",14104
+"los lagos","pobre","pobre","hombre",2217,"2015",14104
+"los lagos","no pobre","no pobre","hombre",7762,"2015",14104
+"los muermos","pobre","pobre","mujer",2196,"2015",10106
+"los muermos","no pobre","no pobre","hombre",5142,"2015",10106
+"los muermos","pobre","pobre","hombre",2339,"2015",10106
+"los muermos","no pobre","no pobre","mujer",5316,"2015",10106
+"lota","pobre","pobre","hombre",3726,"2015",8106
+"lota","no pobre","no pobre","mujer",19717,"2015",8106
+"lota","pobre","pobre","mujer",3954,"2015",8106
+"lota","no pobre","no pobre","hombre",18066,"2015",8106
+"machalí","no pobre","no pobre","hombre",14977,"2015",6108
+"machalí","pobre","pobre","hombre",2821,"2015",6108
+"machalí","pobre","pobre","mujer",2724,"2015",6108
+"machalí","no pobre","no pobre","mujer",15983,"2015",6108
+"macul","no pobre","no pobre","mujer",38583,"2015",13118
+"macul","pobre","pobre","mujer",7658,"2015",13118
+"macul","no pobre","no pobre","hombre",34039,"2015",13118
+"macul","pobre","pobre","hombre",6443,"2015",13118
+"maipú","no pobre","no pobre","hombre",408434,"2015",13119
+"maipú","no pobre","no pobre","mujer",480431,"2015",13119
+"maipú","pobre","pobre","hombre",47586,"2015",13119
+"maipú","pobre","pobre","mujer",66830,"2015",13119
+"melipilla","pobre","pobre","hombre",10133,"2015",13501
+"melipilla","no pobre","no pobre","mujer",44532,"2015",13501
+"melipilla","no pobre","no pobre","hombre",37633,"2015",13501
+"melipilla","pobre","pobre","mujer",9601,"2015",13501
+"mulchén","no pobre","no pobre","hombre",8764,"2015",8305
+"mulchén","no pobre","no pobre","mujer",11525,"2015",8305
+"mulchén","pobre","pobre","hombre",2872,"2015",8305
+"mulchén","pobre","pobre","mujer",2474,"2015",8305
+"nacimiento","no pobre","no pobre","mujer",11413,"2015",8306
+"nacimiento","pobre","pobre","hombre",2175,"2015",8306
+"nacimiento","no pobre","no pobre","hombre",9006,"2015",8306
+"nacimiento","pobre","pobre","mujer",2263,"2015",8306
+"natales","no pobre","no pobre","mujer",8341,"2015",12401
+"natales","pobre","pobre","hombre",1694,"2015",12401
+"natales","pobre","pobre","mujer",1798,"2015",12401
+"natales","no pobre","no pobre","hombre",7576,"2015",12401
+"nueva imperial","pobre","pobre","hombre",5716,"2015",9111
+"nueva imperial","no pobre","no pobre","hombre",7913,"2015",9111
+"nueva imperial","no pobre","no pobre","mujer",9984,"2015",9111
+"nueva imperial","pobre","pobre","mujer",5722,"2015",9111
+"Ñuñoa","pobre","pobre","hombre",6474,"2015",13120
+"Ñuñoa","pobre","pobre","mujer",6730,"2015",13120
+"Ñuñoa","no pobre","no pobre","hombre",53533,"2015",13120
+"Ñuñoa","no pobre","no pobre","mujer",60958,"2015",13120
+"olivar","no pobre","no pobre","mujer",5512,"2015",6111
+"olivar","no pobre","no pobre","hombre",4948,"2015",6111
+"olivar","pobre","pobre","mujer",1530,"2015",6111
+"olivar","pobre","pobre","hombre",1872,"2015",6111
+"osorno","no pobre","no pobre","hombre",58861,"2015",10301
+"osorno","pobre","pobre","mujer",16852,"2015",10301
+"osorno","pobre","pobre","hombre",14299,"2015",10301
+"osorno","no pobre","no pobre","mujer",69520,"2015",10301
+"ovalle","pobre","pobre","hombre",12402,"2015",4301
+"ovalle","no pobre","no pobre","hombre",40288,"2015",4301
+"ovalle","pobre","pobre","mujer",11871,"2015",4301
+"ovalle","no pobre","no pobre","mujer",45574,"2015",4301
+"padre las casas","no pobre","no pobre","hombre",19527,"2015",9112
+"padre las casas","no pobre","no pobre","mujer",26052,"2015",9112
+"padre las casas","pobre","pobre","mujer",16107,"2015",9112
+"padre las casas","pobre","pobre","hombre",15838,"2015",9112
+"paillaco","no pobre","no pobre","mujer",8131,"2015",14107
+"paillaco","pobre","pobre","hombre",1780,"2015",14107
+"paillaco","no pobre","no pobre","hombre",7017,"2015",14107
+"paillaco","pobre","pobre","mujer",2150,"2015",14107
+"panguipulli","pobre","pobre","hombre",5283,"2015",14108
+"panguipulli","no pobre","no pobre","hombre",9967,"2015",14108
+"panguipulli","pobre","pobre","mujer",5443,"2015",14108
+"panguipulli","no pobre","no pobre","mujer",11375,"2015",14108
+"parral","pobre","pobre","hombre",4262,"2015",7404
+"parral","no pobre","no pobre","mujer",14406,"2015",7404
+"parral","no pobre","no pobre","hombre",13197,"2015",7404
+"parral","pobre","pobre","mujer",4136,"2015",7404
+"pedro aguirre cerda","no pobre","no pobre","hombre",26383,"2015",13121
+"pedro aguirre cerda","no pobre","no pobre","mujer",29938,"2015",13121
+"pedro aguirre cerda","pobre","pobre","hombre",11216,"2015",13121
+"pedro aguirre cerda","pobre","pobre","mujer",13655,"2015",13121
+"penco","no pobre","no pobre","mujer",24892,"2015",8107
+"penco","pobre","pobre","mujer",3979,"2015",8107
+"penco","no pobre","no pobre","hombre",21551,"2015",8107
+"penco","pobre","pobre","hombre",4692,"2015",8107
+"peñalolén","no pobre","no pobre","hombre",88656,"2015",13122
+"peñalolén","no pobre","no pobre","mujer",97163,"2015",13122
+"peñalolén","pobre","pobre","mujer",26989,"2015",13122
+"peñalolén","pobre","pobre","hombre",24957,"2015",13122
+"peumo","no pobre","no pobre","mujer",5845,"2015",6112
+"peumo","pobre","pobre","mujer",1679,"2015",6112
+"peumo","no pobre","no pobre","hombre",5815,"2015",6112
+"peumo","pobre","pobre","hombre",1675,"2015",6112
+"pichidegua","pobre","pobre","mujer",1421,"2015",6113
+"pichidegua","no pobre","no pobre","hombre",8119,"2015",6113
+"pichidegua","no pobre","no pobre","mujer",7787,"2015",6113
+"pichidegua","pobre","pobre","hombre",1891,"2015",6113
+"pichilemu","no pobre","no pobre","hombre",6030,"2015",6201
+"pichilemu","pobre","pobre","hombre",1719,"2015",6201
+"pichilemu","no pobre","no pobre","mujer",5305,"2015",6201
+"pichilemu","pobre","pobre","mujer",1868,"2015",6201
+"pitrufquén","no pobre","no pobre","mujer",9940,"2015",9114
+"pitrufquén","pobre","pobre","mujer",2545,"2015",9114
+"pitrufquén","no pobre","no pobre","hombre",8438,"2015",9114
+"pitrufquén","pobre","pobre","hombre",2240,"2015",9114
+"porvenir","pobre","pobre","hombre",229,"2015",12301
+"porvenir","no pobre","no pobre","hombre",2056,"2015",12301
+"porvenir","no pobre","no pobre","mujer",2076,"2015",12301
+"porvenir","pobre","pobre","mujer",276,"2015",12301
+"pozo almonte","no pobre","no pobre","mujer",5455,"2015",1401
+"pozo almonte","pobre","pobre","mujer",1961,"2015",1401
+"pozo almonte","pobre","pobre","hombre",1805,"2015",1401
+"pozo almonte","no pobre","no pobre","hombre",5124,"2015",1401
+"providencia","no pobre","no pobre","hombre",53411,"2015",13123
+"providencia","no pobre","no pobre","mujer",57635,"2015",13123
+"providencia","pobre","pobre","mujer",2578,"2015",13123
+"providencia","pobre","pobre","hombre",2495,"2015",13123
+"pucón","pobre","pobre","mujer",3800,"2015",9115
+"pucón","no pobre","no pobre","hombre",13434,"2015",9115
+"pucón","pobre","pobre","hombre",3313,"2015",9115
+"pucón","no pobre","no pobre","mujer",14787,"2015",9115
+"pudahuel","no pobre","no pobre","mujer",115857,"2015",13124
+"pudahuel","pobre","pobre","hombre",25052,"2015",13124
+"pudahuel","pobre","pobre","mujer",29708,"2015",13124
+"pudahuel","no pobre","no pobre","hombre",112347,"2015",13124
+"puente alto","no pobre","no pobre","hombre",292663,"2015",13201
+"puente alto","pobre","pobre","mujer",92944,"2015",13201
+"puente alto","no pobre","no pobre","mujer",324539,"2015",13201
+"puente alto","pobre","pobre","hombre",94329,"2015",13201
+"puerto montt","no pobre","no pobre","hombre",102837,"2015",10101
+"puerto montt","pobre","pobre","mujer",20242,"2015",10101
+"puerto montt","pobre","pobre","hombre",20757,"2015",10101
+"puerto montt","no pobre","no pobre","mujer",108904,"2015",10101
+"punta arenas","pobre","pobre","hombre",4728,"2015",12101
+"punta arenas","no pobre","no pobre","mujer",56825,"2015",12101
+"punta arenas","pobre","pobre","mujer",4460,"2015",12101
+"punta arenas","no pobre","no pobre","hombre",52962,"2015",12101
+"putre","no pobre","no pobre","mujer",146,"2015",15201
+"putre","pobre","pobre","hombre",216,"2015",15201
+"putre","no pobre","no pobre","hombre",156,"2015",15201
+"putre","pobre","pobre","mujer",235,"2015",15201
+"quellón","no pobre","no pobre","hombre",13497,"2015",10208
+"quellón","pobre","pobre","hombre",4093,"2015",10208
+"quellón","pobre","pobre","mujer",3951,"2015",10208
+"quellón","no pobre","no pobre","mujer",13862,"2015",10208
+"quilicura","no pobre","no pobre","hombre",92562,"2015",13125
+"quilicura","pobre","pobre","mujer",22060,"2015",13125
+"quilicura","no pobre","no pobre","mujer",108874,"2015",13125
+"quilicura","pobre","pobre","hombre",20968,"2015",13125
+"quillota","no pobre","no pobre","mujer",40637,"2015",5501
+"quillota","no pobre","no pobre","hombre",35503,"2015",5501
+"quillota","pobre","pobre","hombre",4786,"2015",5501
+"quillota","pobre","pobre","mujer",4576,"2015",5501
+"quilpué","no pobre","no pobre","mujer",78590,"2015",5801
+"quilpué","pobre","pobre","mujer",10684,"2015",5801
+"quilpué","no pobre","no pobre","hombre",65209,"2015",5801
+"quilpué","pobre","pobre","hombre",10703,"2015",5801
+"quinta normal","no pobre","no pobre","mujer",34679,"2015",13126
+"quinta normal","pobre","pobre","mujer",5440,"2015",13126
+"quinta normal","pobre","pobre","hombre",5347,"2015",13126
+"quinta normal","no pobre","no pobre","hombre",30957,"2015",13126
+"rancagua","pobre","pobre","hombre",25266,"2015",6101
+"rancagua","no pobre","no pobre","hombre",89137,"2015",6101
+"rancagua","no pobre","no pobre","mujer",109755,"2015",6101
+"rancagua","pobre","pobre","mujer",25715,"2015",6101
+"recoleta","no pobre","no pobre","mujer",39686,"2015",13127
+"recoleta","pobre","pobre","mujer",15171,"2015",13127
+"recoleta","pobre","pobre","hombre",14106,"2015",13127
+"recoleta","no pobre","no pobre","hombre",37014,"2015",13127
+"renca","pobre","pobre","mujer",16203,"2015",13128
+"renca","no pobre","no pobre","mujer",48634,"2015",13128
+"renca","pobre","pobre","hombre",12696,"2015",13128
+"renca","no pobre","no pobre","hombre",42379,"2015",13128
+"rengo","no pobre","no pobre","hombre",20368,"2015",6115
+"rengo","pobre","pobre","hombre",8618,"2015",6115
+"rengo","pobre","pobre","mujer",7719,"2015",6115
+"rengo","no pobre","no pobre","mujer",25359,"2015",6115
+"requínoa","pobre","pobre","mujer",2070,"2015",6116
+"requínoa","no pobre","no pobre","hombre",10942,"2015",6116
+"requínoa","pobre","pobre","hombre",2111,"2015",6116
+"requínoa","no pobre","no pobre","mujer",11085,"2015",6116
+"río bueno","pobre","pobre","mujer",3061,"2015",14204
+"río bueno","no pobre","no pobre","mujer",11848,"2015",14204
+"río bueno","no pobre","no pobre","hombre",10239,"2015",14204
+"río bueno","pobre","pobre","hombre",3144,"2015",14204
+"río negro","pobre","pobre","hombre",1552,"2015",10305
+"río negro","pobre","pobre","mujer",1753,"2015",10305
+"río negro","no pobre","no pobre","mujer",4529,"2015",10305
+"río negro","no pobre","no pobre","hombre",4019,"2015",10305
+"san antonio","no pobre","no pobre","hombre",39594,"2015",5601
+"san antonio","no pobre","no pobre","mujer",44085,"2015",5601
+"san antonio","pobre","pobre","hombre",8831,"2015",5601
+"san antonio","pobre","pobre","mujer",7379,"2015",5601
+"san bernardo","pobre","pobre","mujer",29090,"2015",13401
+"san bernardo","no pobre","no pobre","mujer",139416,"2015",13401
+"san bernardo","pobre","pobre","hombre",29266,"2015",13401
+"san bernardo","no pobre","no pobre","hombre",117717,"2015",13401
+"san clemente","pobre","pobre","hombre",6757,"2015",7109
+"san clemente","no pobre","no pobre","mujer",13150,"2015",7109
+"san clemente","pobre","pobre","mujer",7071,"2015",7109
+"san clemente","no pobre","no pobre","hombre",11684,"2015",7109
+"san felipe","no pobre","no pobre","hombre",30972,"2015",5701
+"san felipe","no pobre","no pobre","mujer",34512,"2015",5701
+"san felipe","pobre","pobre","hombre",6659,"2015",5701
+"san felipe","pobre","pobre","mujer",7012,"2015",5701
+"san fernando","no pobre","no pobre","hombre",29583,"2015",6301
+"san fernando","no pobre","no pobre","mujer",32442,"2015",6301
+"san fernando","pobre","pobre","mujer",6196,"2015",6301
+"san fernando","pobre","pobre","hombre",6125,"2015",6301
+"san javier","pobre","pobre","hombre",5373,"2015",7406
+"san javier","no pobre","no pobre","mujer",16689,"2015",7406
+"san javier","pobre","pobre","mujer",5321,"2015",7406
+"san javier","no pobre","no pobre","hombre",13216,"2015",7406
+"san miguel","pobre","pobre","hombre",3542,"2015",13130
+"san miguel","no pobre","no pobre","hombre",25926,"2015",13130
+"san miguel","pobre","pobre","mujer",3885,"2015",13130
+"san miguel","no pobre","no pobre","mujer",28063,"2015",13130
+"san pedro de la paz","no pobre","no pobre","mujer",45615,"2015",8108
+"san pedro de la paz","no pobre","no pobre","hombre",38767,"2015",8108
+"san pedro de la paz","pobre","pobre","hombre",8093,"2015",8108
+"san pedro de la paz","pobre","pobre","mujer",8438,"2015",8108
+"san vicente","no pobre","no pobre","hombre",18278,"2015",6117
+"san vicente","pobre","pobre","mujer",6635,"2015",6117
+"san vicente","pobre","pobre","hombre",4194,"2015",6117
+"san vicente","no pobre","no pobre","mujer",19101,"2015",6117
+"santa cruz","pobre","pobre","mujer",4128,"2015",6310
+"santa cruz","pobre","pobre","hombre",4027,"2015",6310
+"santa cruz","no pobre","no pobre","hombre",14199,"2015",6310
+"santa cruz","no pobre","no pobre","mujer",13614,"2015",6310
+"santiago","no pobre","no pobre","mujer",60977,"2015",13101
+"santiago","pobre","pobre","mujer",6604,"2015",13101
+"santiago","no pobre","no pobre","hombre",59381,"2015",13101
+"santiago","pobre","pobre","hombre",6905,"2015",13101
+"talagante","no pobre","no pobre","hombre",27550,"2015",13601
+"talagante","pobre","pobre","mujer",9445,"2015",13601
+"talagante","pobre","pobre","hombre",8296,"2015",13601
+"talagante","no pobre","no pobre","mujer",34612,"2015",13601
+"talca","pobre","pobre","hombre",19756,"2015",7101
+"talca","no pobre","no pobre","mujer",111260,"2015",7101
+"talca","no pobre","no pobre","hombre",98919,"2015",7101
+"talca","pobre","pobre","mujer",20061,"2015",7101
+"talcahuano","no pobre","no pobre","hombre",63224,"2015",8110
+"talcahuano","pobre","pobre","hombre",9093,"2015",8110
+"talcahuano","pobre","pobre","mujer",9274,"2015",8110
+"talcahuano","no pobre","no pobre","mujer",78892,"2015",8110
+"temuco","no pobre","no pobre","hombre",117497,"2015",9101
+"temuco","no pobre","no pobre","mujer",144667,"2015",9101
+"temuco","pobre","pobre","hombre",25512,"2015",9101
+"temuco","pobre","pobre","mujer",27228,"2015",9101
+"teno","pobre","pobre","hombre",2244,"2015",7308
+"teno","no pobre","no pobre","mujer",11311,"2015",7308
+"teno","pobre","pobre","mujer",1778,"2015",7308
+"teno","no pobre","no pobre","hombre",11437,"2015",7308
+"tocopilla","no pobre","no pobre","hombre",7517,"2015",2301
+"tocopilla","pobre","pobre","mujer",1613,"2015",2301
+"tocopilla","no pobre","no pobre","mujer",7481,"2015",2301
+"tocopilla","pobre","pobre","hombre",1719,"2015",2301
+"tomé","pobre","pobre","hombre",4465,"2015",8111
+"tomé","no pobre","no pobre","mujer",25188,"2015",8111
+"tomé","no pobre","no pobre","hombre",21194,"2015",8111
+"tomé","pobre","pobre","mujer",5816,"2015",8111
+"traiguén","pobre","pobre","mujer",1725,"2015",9210
+"traiguén","no pobre","no pobre","hombre",5350,"2015",9210
+"traiguén","pobre","pobre","hombre",1744,"2015",9210
+"traiguén","no pobre","no pobre","mujer",6780,"2015",9210
+"valdivia","pobre","pobre","mujer",11084,"2015",14101
+"valdivia","no pobre","no pobre","mujer",72964,"2015",14101
+"valdivia","pobre","pobre","hombre",11274,"2015",14101
+"valdivia","no pobre","no pobre","hombre",64426,"2015",14101
+"vallenar","pobre","pobre","hombre",3673,"2015",3301
+"vallenar","no pobre","no pobre","mujer",17707,"2015",3301
+"vallenar","no pobre","no pobre","hombre",17692,"2015",3301
+"vallenar","pobre","pobre","mujer",4259,"2015",3301
+"valparaíso","pobre","pobre","mujer",22420,"2015",5101
+"valparaíso","no pobre","no pobre","mujer",110635,"2015",5101
+"valparaíso","pobre","pobre","hombre",19065,"2015",5101
+"valparaíso","no pobre","no pobre","hombre",96856,"2015",5101
+"victoria","pobre","pobre","mujer",3836,"2015",9211
+"victoria","no pobre","no pobre","hombre",10681,"2015",9211
+"victoria","pobre","pobre","hombre",4336,"2015",9211
+"victoria","no pobre","no pobre","mujer",11727,"2015",9211
+"vicuña","pobre","pobre","mujer",2496,"2015",4106
+"vicuña","no pobre","no pobre","mujer",11350,"2015",4106
+"vicuña","pobre","pobre","hombre",2233,"2015",4106
+"vicuña","no pobre","no pobre","hombre",10102,"2015",4106
+"villa alegre","pobre","pobre","hombre",1906,"2015",7407
+"villa alegre","no pobre","no pobre","mujer",5311,"2015",7407
+"villa alegre","pobre","pobre","mujer",1941,"2015",7407
+"villa alegre","no pobre","no pobre","hombre",4627,"2015",7407
+"villa alemana","no pobre","no pobre","hombre",57902,"2015",5804
+"villa alemana","pobre","pobre","mujer",13790,"2015",5804
+"villa alemana","pobre","pobre","hombre",13348,"2015",5804
+"villa alemana","no pobre","no pobre","mujer",59184,"2015",5804
+"villarrica","no pobre","no pobre","hombre",23381,"2015",9120
+"villarrica","pobre","pobre","mujer",6052,"2015",9120
+"villarrica","pobre","pobre","hombre",6180,"2015",9120
+"villarrica","no pobre","no pobre","mujer",25090,"2015",9120
+"viña del mar","pobre","pobre","mujer",20413,"2015",5109
+"viña del mar","no pobre","no pobre","mujer",127691,"2015",5109
+"viña del mar","no pobre","no pobre","hombre",109892,"2015",5109
+"viña del mar","pobre","pobre","hombre",18809,"2015",5109
+"yerbas buenas","no pobre","no pobre","mujer",6291,"2015",7408
+"yerbas buenas","no pobre","no pobre","hombre",5511,"2015",7408
+"yerbas buenas","pobre","pobre","mujer",2162,"2015",7408
+"yerbas buenas","pobre","pobre","hombre",2333,"2015",7408

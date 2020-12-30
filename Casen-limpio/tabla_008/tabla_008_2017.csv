@@ -1,0 +1,474 @@
+"","a","unlist.b.","unlist.c.","unlist.d.","Freq","anio","codigo"
+"1","Alhué","Alhué","Colombia","Hombre",17,"2017",13502
+"2","Alto Hospicio","Iquique","Ecuador","Mujer",35,"2017",1107
+"3","Alto Hospicio","Alto Hospicio","México","Mujer",72,"2017",1107
+"4","Alto Hospicio","Alto Hospicio","Colombia","Mujer",51,"2017",1107
+"5","Alto Hospicio","Iquique","Perú","Mujer",93,"2017",1107
+"6","Alto Hospicio","Iquique","Perú","Hombre",46,"2017",1107
+"7","Alto Hospicio","Alto Hospicio","Bolivia","Mujer",103,"2017",1107
+"8","Alto Hospicio","Alto Hospicio","Bolivia","Hombre",370,"2017",1107
+"9","Alto Hospicio","Alto Hospicio","Perú","Hombre",174,"2017",1107
+"10","Alto Hospicio","Iquique","Venezuela","Mujer",88,"2017",1107
+"11","Alto Hospicio","Alto Hospicio","Argentina","Hombre",39,"2017",1107
+"12","Alto Hospicio","Alto Hospicio","Perú","Mujer",181,"2017",1107
+"13","Alto Hospicio","Iquique","Venezuela","Hombre",44,"2017",1107
+"14","Ancud","Ancud","Ecuador","Hombre",84,"2017",10202
+"15","Ancud","Ancud","Ecuador","Mujer",168,"2017",10202
+"16","Angol","Angol","Colombia","Hombre",78,"2017",9201
+"17","Antofagasta","Antofagasta","Argentina","Mujer",77,"2017",2101
+"18","Antofagasta","Antofagasta","Colombia","Hombre",757,"2017",2101
+"19","Antofagasta","No responde","Perú","Mujer",127,"2017",2101
+"20","Antofagasta","Antofagasta","Bolivia","Hombre",341,"2017",2101
+"21","Antofagasta","Antofagasta","Perú","Mujer",221,"2017",2101
+"22","Antofagasta","Antofagasta","Colombia","Mujer",395,"2017",2101
+"23","Antofagasta","Antofagasta","Paraguay","Hombre",71,"2017",2101
+"24","Antofagasta","Antofagasta","Perú","Hombre",207,"2017",2101
+"25","Antofagasta","Antofagasta","Ecuador","Mujer",75,"2017",2101
+"26","Antofagasta","Antofagasta","China","Mujer",51,"2017",2101
+"27","Antofagasta","Antofagasta","Venezuela","Mujer",119,"2017",2101
+"28","Antofagasta","Cabo De Hornos","Bolivia","Hombre",59,"2017",2101
+"29","Antofagasta","Antofagasta","No Responde","Hombre",73,"2017",2101
+"30","Antofagasta","Antofagasta","Bolivia","Mujer",413,"2017",2101
+"31","Antuco","Los Ángeles","Argentina","Mujer",10,"2017",8302
+"32","Arauco","Arauco","España","Mujer",61,"2017",8202
+"33","Arica","Arica","Bolivia","Hombre",346,"2017",15101
+"34","Arica","Arica","Venezuela","Hombre",55,"2017",15101
+"35","Arica","Arica","España","Mujer",11,"2017",15101
+"36","Arica","Arica","Paraguay","Hombre",40,"2017",15101
+"37","Arica","Arica","Colombia","Mujer",138,"2017",15101
+"38","Arica","Arica","Ecuador","Mujer",23,"2017",15101
+"39","Arica","Arica","Perú","Mujer",176,"2017",15101
+"40","Arica","Arica","Cuba","Hombre",13,"2017",15101
+"41","Arica","No responde","Bolivia","Hombre",13,"2017",15101
+"42","Arica","Arica","Venezuela","Mujer",28,"2017",15101
+"43","Arica","Arica","Ecuador","Hombre",46,"2017",15101
+"44","Arica","Arica","Colombia","Hombre",140,"2017",15101
+"45","Arica","Arica","Cuba","Mujer",13,"2017",15101
+"46","Arica","Arica","Bolivia","Mujer",476,"2017",15101
+"47","Arica","Arica","Perú","Hombre",211,"2017",15101
+"48","Aysén","Aysén","Bolivia","Hombre",37,"2017",11201
+"49","Aysén","Coyhaique","Argentina","Hombre",16,"2017",11201
+"50","Aysén","Aysén","Argentina","Hombre",19,"2017",11201
+"51","Aysén","Aysén","Colombia","Hombre",62,"2017",11201
+"52","Calama","Calama","Perú","Mujer",61,"2017",2201
+"53","Calama","No responde","Bolivia","Mujer",108,"2017",2201
+"54","Calama","Calama","Bolivia","Mujer",976,"2017",2201
+"55","Calama","Calama","Bolivia","Hombre",569,"2017",2201
+"56","Calama","Calama","Ecuador","Mujer",61,"2017",2201
+"57","Calama","Calama","Perú","Hombre",132,"2017",2201
+"58","Caldera","Caldera","Colombia","Hombre",110,"2017",3102
+"59","Caldera","Caldera","Colombia","Mujer",55,"2017",3102
+"60","Calle Larga","Los Andes","Argentina","Hombre",32,"2017",5302
+"61","Casablanca","No responde","Haití","Hombre",204,"2017",5102
+"62","Castro","Santiago","Colombia","Hombre",88,"2017",10201
+"63","Castro","Castro","Argentina","Mujer",123,"2017",10201
+"64","Cerro Navia","Cerro Navia","Perú","Mujer",223,"2017",13103
+"65","Cerro Navia","Cerro Navia","Perú","Hombre",223,"2017",13103
+"66","Cerro Navia","Quinta Normal","Colombia","Mujer",251,"2017",13103
+"67","Chiguayante","Chiguayante","Argentina","Hombre",75,"2017",8103
+"68","Chiguayante","Chiguayante","Argentina","Mujer",75,"2017",8103
+"69","Chimbarongo","Chimbarongo","Haití","Mujer",59,"2017",6303
+"70","Cholchol","Temuco","Bolivia","Mujer",15,"2017",9121
+"71","Cholchol","Cholchol","Bolivia","Hombre",15,"2017",9121
+"72","Cobquecura","Santiago","Venezuela","Mujer",30,"2017",16202
+"73","Colina","Colina","Bolivia","Mujer",114,"2017",13301
+"74","Concepción","Concepción","Ecuador","Hombre",317,"2017",8101
+"75","Concepción","Concepción","Venezuela","Mujer",72,"2017",8101
+"76","Concepción","Chiguayante","Italia","Hombre",54,"2017",8101
+"77","Concepción","Concepción","Venezuela","Hombre",101,"2017",8101
+"78","Concepción","Concepción","Ecuador","Mujer",317,"2017",8101
+"79","Concepción","Concepción","Cuba","Mujer",415,"2017",8101
+"80","Concepción","Concepción","Perú","Hombre",58,"2017",8101
+"81","Concepción","Concepción","Colombia","Mujer",1093,"2017",8101
+"82","Conchalí","Santiago","Perú","Hombre",115,"2017",13104
+"83","Conchalí","Santiago","Perú","Mujer",115,"2017",13104
+"84","Copiapó","Copiapó","Perú","Mujer",82,"2017",3101
+"85","Copiapó","Copiapó","Uruguay","Mujer",53,"2017",3101
+"86","Copiapó","Copiapó","Argentina","Hombre",114,"2017",3101
+"87","Copiapó","Copiapó","Colombia","Hombre",111,"2017",3101
+"88","Copiapó","Copiapó","Colombia","Mujer",106,"2017",3101
+"89","Copiapó","Copiapó","Bolivia","Hombre",160,"2017",3101
+"90","Coquimbo","Coquimbo","Colombia","Hombre",180,"2017",4102
+"91","Coquimbo","Coquimbo","República Dominicana","Mujer",64,"2017",4102
+"92","Coquimbo","Coquimbo","Colombia","Mujer",137,"2017",4102
+"93","Coquimbo","Coquimbo","Argentina","Hombre",78,"2017",4102
+"94","Coquimbo","Coquimbo","Haití","Mujer",186,"2017",4102
+"95","Coronel","Concepción","Haití","Mujer",25,"2017",8102
+"96","Coronel","Coronel","Haití","Hombre",162,"2017",8102
+"97","Coronel","Coronel","Haití","Mujer",162,"2017",8102
+"98","Coronel","Coronel","Bolivia","Mujer",68,"2017",8102
+"99","Coronel","Coronel","Venezuela","Hombre",30,"2017",8102
+"100","Coyhaique","Coyhaique","Argentina","Hombre",40,"2017",11101
+"101","Coyhaique","Coyhaique","Perú","Hombre",17,"2017",11101
+"102","Coyhaique","Coyhaique","Brasil","Hombre",23,"2017",11101
+"103","Coyhaique","Coyhaique","Colombia","Mujer",19,"2017",11101
+"104","Coyhaique","Coyhaique","Argentina","Mujer",63,"2017",11101
+"105","Coyhaique","Coyhaique","República Dominicana","Mujer",30,"2017",11101
+"106","Curarrehue","Curarrehue","No Responde","Mujer",54,"2017",9104
+"107","Curarrehue","Temuco","Argentina","Mujer",11,"2017",9104
+"108","Curicó","Curicó","Ecuador","Hombre",44,"2017",7301
+"109","Curicó","Curicó","Francia","Hombre",309,"2017",7301
+"110","Curicó","Curicó","Ecuador","Mujer",22,"2017",7301
+"111","Curicó","Curicó","Venezuela","Mujer",62,"2017",7301
+"112","Curicó","Curicó","Colombia","Mujer",35,"2017",7301
+"113","Curicó","Curicó","El Salvador","Hombre",47,"2017",7301
+"114","El Bosque","El Bosque","Colombia","Hombre",336,"2017",13105
+"115","El Bosque","El Bosque","Bolivia","Mujer",336,"2017",13105
+"116","El Bosque","No responde","Perú","Hombre",181,"2017",13105
+"117","El Bosque","Santiago","Argentina","Hombre",109,"2017",13105
+"118","El Bosque","Santiago","Bolivia","Mujer",336,"2017",13105
+"119","El Bosque","Renca","Perú","Hombre",181,"2017",13105
+"120","Estación Central","San Miguel","Haití","Hombre",52,"2017",13106
+"121","Estación Central","Estación Central","República Dominicana","Mujer",237,"2017",13106
+"122","Estación Central","Las Condes","Perú","Hombre",87,"2017",13106
+"123","Estación Central","Santiago","Perú","Mujer",174,"2017",13106
+"124","Estación Central","San Miguel","Haití","Mujer",52,"2017",13106
+"125","Estación Central","Estación Central","Perú","Mujer",126,"2017",13106
+"126","Futrono","Futrono","Francia","Mujer",52,"2017",14202
+"127","Futrono","Futrono","Francia","Hombre",52,"2017",14202
+"128","Graneros","Graneros","Haití","Hombre",39,"2017",6106
+"129","Huara","Laja","Bolivia","Mujer",17,"2017",1404
+"130","Huechuraba","Huechuraba","Argentina","Mujer",254,"2017",13107
+"131","Huechuraba","Huechuraba","Haití","Mujer",242,"2017",13107
+"132","Illapel","Illapel","Venezuela","Hombre",98,"2017",4201
+"133","Independencia","Independencia","Colombia","Hombre",159,"2017",13108
+"134","Independencia","Independencia","Perú","Hombre",159,"2017",13108
+"135","Independencia","Recoleta","Perú","Mujer",102,"2017",13108
+"136","Independencia","Independencia","Perú","Mujer",210,"2017",13108
+"137","Independencia","Estación Central","Venezuela","Hombre",405,"2017",13108
+"138","Independencia","Independencia","Venezuela","Hombre",477,"2017",13108
+"139","Independencia","Quinta Normal","Venezuela","Mujer",32,"2017",13108
+"140","Independencia","Independencia","Venezuela","Mujer",110,"2017",13108
+"141","Independencia","Providencia","Perú","Mujer",70,"2017",13108
+"142","Iquique","No responde","Perú","Hombre",20,"2017",1101
+"143","Iquique","No responde","Bolivia","Hombre",9,"2017",1101
+"144","Iquique","Iquique","Argentina","Mujer",40,"2017",1101
+"145","Iquique","Santa Cruz","Bolivia","Mujer",42,"2017",1101
+"146","Iquique","Iquique","Perú","Mujer",747,"2017",1101
+"147","Iquique","Iquique","Colombia","Hombre",122,"2017",1101
+"148","Iquique","Santa Cruz","Bolivia","Hombre",42,"2017",1101
+"149","Iquique","Iquique","República Dominicana","Hombre",23,"2017",1101
+"150","Iquique","No responde","Bolivia","Mujer",136,"2017",1101
+"151","Iquique","Iquique","Perú","Hombre",1120,"2017",1101
+"152","Iquique","Iquique","Ecuador","Mujer",52,"2017",1101
+"153","Iquique","Santiago","Brasil","Hombre",54,"2017",1101
+"154","Iquique","Iquique","Bolivia","Mujer",812,"2017",1101
+"155","Iquique","No responde","Colombia","Hombre",36,"2017",1101
+"156","Iquique","Iquique","España","Mujer",25,"2017",1101
+"157","Iquique","Iquique","Bolivia","Hombre",1120,"2017",1101
+"158","Iquique","Iquique","Paraguay","Mujer",36,"2017",1101
+"159","Iquique","Iquique","Colombia","Mujer",209,"2017",1101
+"160","Iquique","Quilpué","Perú","Mujer",40,"2017",1101
+"161","Iquique","Iquique","Venezuela","Mujer",37,"2017",1101
+"162","Iquique","Iquique","República Dominicana","Mujer",23,"2017",1101
+"163","La Cisterna","La Cisterna","Perú","Mujer",91,"2017",13109
+"164","La Florida","La Florida","Venezuela","Hombre",1095,"2017",13110
+"165","La Florida","La Florida","Ecuador","Hombre",211,"2017",13110
+"166","La Florida","La Florida","Venezuela","Mujer",252,"2017",13110
+"167","La Florida","Vitacura","Perú","Mujer",120,"2017",13110
+"168","La Florida","Santiago","Perú","Hombre",111,"2017",13110
+"169","La Florida","Puente Alto","Perú","Mujer",120,"2017",13110
+"170","La Florida","Puente Alto","Perú","Hombre",231,"2017",13110
+"171","La Florida","La Florida","Perú","Mujer",292,"2017",13110
+"172","La Granja","San Ramón","Perú","Hombre",199,"2017",13111
+"173","La Ligua","La Ligua","Venezuela","Hombre",186,"2017",5401
+"174","La Ligua","La Ligua","Venezuela","Mujer",186,"2017",5401
+"175","La Pintana","La Pintana","Ecuador","Mujer",231,"2017",13112
+"176","La Pintana","La Pintana","Ecuador","Hombre",189,"2017",13112
+"177","La Reina","La Reina","Haití","Hombre",198,"2017",13113
+"178","La Reina","La Reina","Perú","Mujer",99,"2017",13113
+"179","La Reina","Santiago","Argentina","Hombre",135,"2017",13113
+"180","La Reina","Santiago","Colombia","Hombre",165,"2017",13113
+"181","La Reina","La Reina","Haití","Mujer",94,"2017",13113
+"182","La Reina","No responde","Haití","Hombre",94,"2017",13113
+"183","La Serena","La Serena","Ecuador","Hombre",118,"2017",4101
+"184","La Serena","La Serena","Perú","Mujer",41,"2017",4101
+"185","La Serena","La Serena","Ecuador","Mujer",236,"2017",4101
+"186","La Serena","La Serena","Bolivia","Hombre",96,"2017",4101
+"187","Lampa","Lampa","Haití","Hombre",303,"2017",13302
+"188","Lampa","Lampa","Colombia","Mujer",56,"2017",13302
+"189","Lampa","Santiago","Colombia","Mujer",116,"2017",13302
+"190","Lampa","Lampa","Colombia","Hombre",118,"2017",13302
+"191","Las Condes","Providencia","Estados Unidos","Hombre",92,"2017",13114
+"192","Las Condes","Las Condes","Argentina","Hombre",198,"2017",13114
+"193","Las Condes","Las Condes","Colombia","Mujer",431,"2017",13114
+"194","Las Condes","No responde","Perú","Hombre",108,"2017",13114
+"195","Las Condes","Las Condes","Uruguay","Hombre",429,"2017",13114
+"196","Las Condes","Santiago","China","Mujer",177,"2017",13114
+"197","Las Condes","Las Condes","Perú","Mujer",366,"2017",13114
+"198","Las Condes","Las Condes","España","Mujer",202,"2017",13114
+"199","Las Condes","Las Condes","Estados Unidos","Hombre",66,"2017",13114
+"200","Las Condes","Las Condes","Uruguay","Mujer",429,"2017",13114
+"201","Las Condes","Las Condes","Estados Unidos","Mujer",66,"2017",13114
+"202","Las Condes","Las Condes","Perú","Hombre",134,"2017",13114
+"203","Las Condes","No responde","Venezuela","Mujer",86,"2017",13114
+"204","Las Condes","No responde","Argentina","Hombre",116,"2017",13114
+"205","Las Condes","Las Condes","Venezuela","Mujer",86,"2017",13114
+"206","Las Condes","Lo Barnechea","Brasil","Mujer",80,"2017",13114
+"207","Las Condes","Las Condes","Colombia","Hombre",173,"2017",13114
+"208","Las Condes","Las Condes","Venezuela","Hombre",253,"2017",13114
+"209","Limache","Valparaíso","Italia","Hombre",124,"2017",5802
+"210","Limache","Olmué","Italia","Mujer",124,"2017",5802
+"211","Litueche","Litueche","Haití","Mujer",33,"2017",6203
+"212","Llaillay","Llaillay","España","Mujer",110,"2017",5703
+"213","Lo Barnechea","Las Condes","Guatemala","Hombre",35,"2017",13115
+"214","Lo Barnechea","Santiago","Guatemala","Mujer",35,"2017",13115
+"215","Lo Barnechea","Providencia","Perú","Mujer",129,"2017",13115
+"216","Lo Barnechea","Lo Barnechea","Argentina","Mujer",59,"2017",13115
+"217","Lo Barnechea","Lo Barnechea","Perú","Hombre",59,"2017",13115
+"218","Lo Barnechea","Lo Barnechea","Perú","Mujer",59,"2017",13115
+"219","Lo Espejo","Doñihue","Venezuela","Hombre",152,"2017",13116
+"220","Lo Prado","Lo Prado","Haití","Hombre",172,"2017",13117
+"221","Lo Prado","Lo Prado","Venezuela","Mujer",133,"2017",13117
+"222","Lo Prado","Lo Prado","Venezuela","Hombre",133,"2017",13117
+"223","Lo Prado","Santiago","Ecuador","Mujer",169,"2017",13117
+"224","Longaví","Longaví","Colombia","Hombre",26,"2017",7403
+"225","Los Andes","Los Andes","Colombia","Hombre",181,"2017",5301
+"226","Los Ángeles","Los Ángeles","Estados Unidos","Mujer",63,"2017",8301
+"227","Los Ángeles","Los Ángeles","Venezuela","Hombre",71,"2017",8301
+"228","Machalí","Machali","Perú","Hombre",125,"2017",6108
+"229","Machalí","Peñalolén","España","Hombre",367,"2017",6108
+"230","Machalí","Rancagua","Perú","Hombre",125,"2017",6108
+"231","Macul","Macul","Colombia","Mujer",120,"2017",13118
+"232","Macul","Macul","Perú","Hombre",152,"2017",13118
+"233","Macul","Providencia","Perú","Mujer",118,"2017",13118
+"234","Maipú","Maipú","Perú","Hombre",587,"2017",13119
+"235","Maipú","Maipú","Colombia","Mujer",365,"2017",13119
+"236","Maipú","Maipú","Venezuela","Hombre",1118,"2017",13119
+"237","Maipú","Maipú","Argentina","Mujer",514,"2017",13119
+"238","Maipú","Santiago","Perú","Mujer",464,"2017",13119
+"239","Maipú","Maipú","Colombia","Hombre",495,"2017",13119
+"240","Maipú","Maipú","España","Hombre",586,"2017",13119
+"241","Maipú","Maipú","Perú","Mujer",1492,"2017",13119
+"242","María Elena","María Elena","Bolivia","Hombre",25,"2017",2302
+"243","María Elena","María Elena","Colombia","Mujer",14,"2017",2302
+"244","María Elena","María Elena","Bolivia","Mujer",37,"2017",2302
+"245","María Elena","María Elena","Colombia","Hombre",14,"2017",2302
+"246","Mejillones","Mejillones","Bolivia","Hombre",114,"2017",2102
+"247","Mejillones","Mejillones","Bolivia","Mujer",57,"2017",2102
+"248","Melipilla","Santiago","Bolivia","Mujer",148,"2017",13501
+"249","Melipilla","Melipilla","Bolivia","Mujer",199,"2017",13501
+"250","Mostazal","Santiago","Perú","Mujer",64,"2017",6110
+"251","Natales","Natales","Colombia","Hombre",190,"2017",12401
+"252","Natales","No responde","Colombia","Mujer",36,"2017",12401
+"253","Natales","Natales","Polonia","Mujer",46,"2017",12401
+"254","Ñiquén","Ñiquén","Argentina","Mujer",10,"2017",16303
+"255","Ñuñoa","Ñuñoa","Venezuela","Hombre",199,"2017",13120
+"256","Ñuñoa","Santiago","Perú","Hombre",43,"2017",13120
+"257","Ñuñoa","Ñuñoa","Costa Rica","Mujer",78,"2017",13120
+"258","Ñuñoa","Ñuñoa","Venezuela","Mujer",40,"2017",13120
+"259","Ñuñoa","Ñuñoa","Ecuador","Mujer",146,"2017",13120
+"260","Ñuñoa","Huechuraba","Italia","Hombre",55,"2017",13120
+"261","Ñuñoa","Ñuñoa","Canadá","Hombre",59,"2017",13120
+"262","Olmué","Olmué","Estados Unidos","Mujer",64,"2017",5803
+"263","Osorno","Las Condes","Ecuador","Mujer",65,"2017",10301
+"264","Ovalle","Ovalle","Colombia","Hombre",104,"2017",4301
+"265","Ovalle","Ovalle","Perú","Hombre",30,"2017",4301
+"266","Paillaco","Valdivia","Alemania","Hombre",39,"2017",14107
+"267","Paillaco","Futrono","Brasil","Hombre",38,"2017",14107
+"268","Paine","Paine","Ecuador","Mujer",180,"2017",13404
+"269","Paine","Paine","Bolivia","Hombre",326,"2017",13404
+"270","Paine","Paine","Ecuador","Hombre",180,"2017",13404
+"271","Pedro Aguirre Cerda","Pedro Aguirre Cerda","Perú","Mujer",148,"2017",13121
+"272","Peñalolén","Valparaíso","Perú","Hombre",218,"2017",13122
+"273","Peñalolén","Peñalolén","Perú","Hombre",102,"2017",13122
+"274","Peñalolén","No responde","Perú","Hombre",229,"2017",13122
+"275","Peñalolén","Peñalolén","Perú","Mujer",385,"2017",13122
+"276","Peñalolén","Santiago","Perú","Mujer",175,"2017",13122
+"277","Pichidegua","Pichidegua","Perú","Hombre",114,"2017",6113
+"278","Porvenir","Porvenir","Argentina","Hombre",33,"2017",12301
+"279","Pozo Almonte","Pozo Almonte","Bolivia","Mujer",127,"2017",1401
+"280","Pozo Almonte","Iquique","Bolivia","Hombre",53,"2017",1401
+"281","Pozo Almonte","Pozo Almonte","Perú","Hombre",48,"2017",1401
+"282","Pozo Almonte","Pozo Almonte","Bolivia","Hombre",273,"2017",1401
+"283","Providencia","Santiago","Alemania","Hombre",85,"2017",13123
+"284","Providencia","Providencia","Colombia","Hombre",47,"2017",13123
+"285","Providencia","Las Condes","Argentina","Mujer",136,"2017",13123
+"286","Providencia","No responde","Colombia","Mujer",30,"2017",13123
+"287","Providencia","Providencia","Ecuador","Hombre",63,"2017",13123
+"288","Providencia","Providencia","España","Hombre",110,"2017",13123
+"289","Providencia","Santiago","Perú","Mujer",39,"2017",13123
+"290","Providencia","Santiago","Francia","Hombre",85,"2017",13123
+"291","Providencia","Providencia","Perú","Hombre",112,"2017",13123
+"292","Providencia","Providencia","Colombia","Mujer",51,"2017",13123
+"293","Providencia","Ñuñoa","España","Mujer",48,"2017",13123
+"294","Providencia","Providencia","México","Hombre",48,"2017",13123
+"295","Providencia","Las Condes","Francia","Mujer",85,"2017",13123
+"296","Providencia","Providencia","Francia","Mujer",48,"2017",13123
+"297","Providencia","Macul","Alemania","Mujer",43,"2017",13123
+"298","Providencia","Recoleta","Haití","Mujer",74,"2017",13123
+"299","Providencia","Providencia","Ecuador","Mujer",63,"2017",13123
+"300","Providencia","Providencia","Bolivia","Mujer",46,"2017",13123
+"301","Providencia","Providencia","Venezuela","Hombre",37,"2017",13123
+"302","Providencia","Providencia","Venezuela","Mujer",37,"2017",13123
+"303","Pudahuel","Estación Central","Ecuador","Hombre",662,"2017",13124
+"304","Pudahuel","Estación Central","Ecuador","Mujer",331,"2017",13124
+"305","Pudahuel","Santiago","Perú","Mujer",221,"2017",13124
+"306","Pudahuel","Pudahuel","Paraguay","Hombre",662,"2017",13124
+"307","Pudahuel","Santiago","Perú","Hombre",221,"2017",13124
+"308","Pudahuel","Pudahuel","Paraguay","Mujer",331,"2017",13124
+"309","Puente Alto","Providencia","Perú","Mujer",349,"2017",13201
+"310","Puente Alto","Puente Alto","Perú","Hombre",611,"2017",13201
+"311","Puente Alto","La Pintana","Perú","Hombre",265,"2017",13201
+"312","Puente Alto","Pirque","Alemania","Hombre",1086,"2017",13201
+"313","Puente Alto","San Miguel","Colombia","Mujer",200,"2017",13201
+"314","Puente Alto","Puente Alto","Bolivia","Mujer",357,"2017",13201
+"315","Puente Alto","La Florida","Perú","Mujer",443,"2017",13201
+"316","Puente Alto","Pirque","Alemania","Mujer",1086,"2017",13201
+"317","Puerto Montt","Puerto Montt","Ecuador","Mujer",106,"2017",10101
+"318","Punta Arenas","Punta Arenas","República Dominicana","Mujer",48,"2017",12101
+"319","Punta Arenas","Punta Arenas","Argentina","Hombre",90,"2017",12101
+"320","Punta Arenas","Punta Arenas","Paraguay","Hombre",44,"2017",12101
+"321","Punta Arenas","Punta Arenas","Paraguay","Mujer",60,"2017",12101
+"322","Punta Arenas","Punta Arenas","Uruguay","Mujer",20,"2017",12101
+"323","Punta Arenas","Punta Arenas","Colombia","Hombre",107,"2017",12101
+"324","Punta Arenas","Punta Arenas","Argentina","Mujer",43,"2017",12101
+"325","Punta Arenas","Punta Arenas","República Dominicana","Hombre",34,"2017",12101
+"326","Punta Arenas","Punta Arenas","Ecuador","Hombre",25,"2017",12101
+"327","Punta Arenas","Punta Arenas","Colombia","Mujer",59,"2017",12101
+"328","Putaendo","San Felipe","Haití","Mujer",39,"2017",5705
+"329","Putaendo","Putaendo","Haití","Hombre",39,"2017",5705
+"330","Putaendo","Putaendo","Haití","Mujer",39,"2017",5705
+"331","Putre","Putre","Bolivia","Hombre",4,"2017",15201
+"332","Putre","Putre","Perú","Hombre",3,"2017",15201
+"333","Quilicura","Quilicura","Haití","Hombre",1148,"2017",13125
+"334","Quilicura","Quilicura","Bolivia","Hombre",570,"2017",13125
+"335","Quilicura","Quilicura","Haití","Mujer",298,"2017",13125
+"336","Quilicura","Quilicura","Perú","Hombre",570,"2017",13125
+"337","Quilicura","Quilicura","Perú","Mujer",570,"2017",13125
+"338","Quilicura","Quilicura","Bolivia","Mujer",570,"2017",13125
+"339","Quillota","Quillota","Venezuela","Mujer",446,"2017",5501
+"340","Quillota","Quillota","Venezuela","Hombre",86,"2017",5501
+"341","Quilpué","Viña Del Mar","España","Mujer",142,"2017",5801
+"342","Quilpué","Viña Del Mar","Colombia","Mujer",70,"2017",5801
+"343","Quinta Normal","Quinta Normal","República Dominicana","Hombre",216,"2017",13126
+"344","Quinta Normal","Quinta Normal","Argentina","Hombre",216,"2017",13126
+"345","Quinta Normal","Quinta Normal","Venezuela","Hombre",330,"2017",13126
+"346","Quinta Normal","Cerro Navia","Haití","Hombre",106,"2017",13126
+"347","Quinta Normal","Las Condes","Perú","Hombre",216,"2017",13126
+"348","Quinta Normal","Quinta Normal","Venezuela","Mujer",110,"2017",13126
+"349","Quinta Normal","Quinta Normal","República Dominicana","Mujer",216,"2017",13126
+"350","Quinta Normal","Quinta Normal","Haití","Mujer",106,"2017",13126
+"351","Quintero","Concon","Ecuador","Hombre",109,"2017",5107
+"352","Rancagua","Rancagua","Ecuador","Mujer",79,"2017",6101
+"353","Rancagua","Rancagua","Colombia","Hombre",85,"2017",6101
+"354","Rancagua","Rancagua","Perú","Mujer",46,"2017",6101
+"355","Rancagua","Rancagua","Argentina","Hombre",119,"2017",6101
+"356","Rancagua","Rancagua","República Dominicana","Hombre",73,"2017",6101
+"357","Rauco","Curicó","Argentina","Hombre",45,"2017",7305
+"358","Recoleta","Recoleta","Colombia","Mujer",96,"2017",13127
+"359","Recoleta","Recoleta","Haití","Mujer",256,"2017",13127
+"360","Recoleta","Independencia","Perú","Hombre",384,"2017",13127
+"361","Recoleta","Recoleta","Perú","Hombre",648,"2017",13127
+"362","Recoleta","Santiago","Perú","Hombre",192,"2017",13127
+"363","Recoleta","Recoleta","Perú","Mujer",153,"2017",13127
+"364","Renca","Renca","Haití","Mujer",199,"2017",13128
+"365","Renca","Renca","Venezuela","Hombre",145,"2017",13128
+"366","Renca","Renca","Perú","Mujer",411,"2017",13128
+"367","Renca","Santiago","Uruguay","Hombre",137,"2017",13128
+"368","Renca","Renca","Venezuela","Mujer",145,"2017",13128
+"369","Rengo","Rengo","Venezuela","Hombre",59,"2017",6115
+"370","Rengo","Rengo","Colombia","Mujer",49,"2017",6115
+"371","Rinconada","Rinconada","Venezuela","Hombre",42,"2017",5303
+"372","Rinconada","Rinconada","Venezuela","Mujer",42,"2017",5303
+"373","Salamanca","Salamanca","Perú","Mujer",51,"2017",4204
+"374","Salamanca","Salamanca","Perú","Hombre",51,"2017",4204
+"375","Salamanca","Salamanca","Noruega","Hombre",36,"2017",4204
+"376","San Antonio","Melipilla","Argentina","Mujer",31,"2017",5601
+"377","San Bernardo","San Bernardo","Argentina","Mujer",209,"2017",13401
+"378","San Bernardo","San Bernardo","Perú","Mujer",456,"2017",13401
+"379","San Bernardo","San Bernardo","República Dominicana","Hombre",235,"2017",13401
+"380","San Carlos","San Carlos","México","Hombre",33,"2017",16301
+"381","San Esteban","San Esteban","Colombia","Mujer",194,"2017",5304
+"382","San Fernando","San Fernando","Hungría","Mujer",89,"2017",6301
+"383","San Joaquín","San Joaquín","Venezuela","Hombre",119,"2017",13129
+"384","San Joaquín","San Joaquín","Perú","Hombre",104,"2017",13129
+"385","San Joaquín","San Joaquín","Haití","Hombre",146,"2017",13129
+"386","San Joaquín","San Joaquín","Haití","Mujer",292,"2017",13129
+"387","San Joaquín","La Florida","Venezuela","Mujer",119,"2017",13129
+"388","San José de Maipo","Puente Alto","Perú","Mujer",63,"2017",13203
+"389","San José de Maipo","San José De Maipo","Venezuela","Hombre",46,"2017",13203
+"390","San Miguel","San Miguel","México","Mujer",93,"2017",13130
+"391","San Miguel","San Miguel","Venezuela","Hombre",93,"2017",13130
+"392","San Miguel","San Miguel","Haití","Mujer",104,"2017",13130
+"393","San Pablo","Osorno","Alemania","Mujer",32,"2017",10307
+"394","San Pedro de Atacama","San Pedro","Argentina","Mujer",27,"2017",2203
+"395","San Pedro de Atacama","San Pedro De Atacama","Bolivia","Mujer",37,"2017",2203
+"396","Santa Cruz","Santa Cruz","Venezuela","Mujer",145,"2017",6310
+"397","Santa Cruz","Santa Cruz","Cuba","Mujer",145,"2017",6310
+"398","Santiago","Santiago","Colombia","Mujer",559,"2017",13101
+"399","Santiago","Santiago","Uruguay","Hombre",34,"2017",13101
+"400","Santiago","San Joaquín","Perú","Mujer",18,"2017",13101
+"401","Santiago","Estación Central","Argentina","Hombre",90,"2017",13101
+"402","Santiago","Santiago","Venezuela","Hombre",2078,"2017",13101
+"403","Santiago","Recoleta","Perú","Hombre",24,"2017",13101
+"404","Santiago","No responde","Ecuador","Hombre",131,"2017",13101
+"405","Santiago","Quinta Normal","Colombia","Hombre",21,"2017",13101
+"406","Santiago","Providencia","Venezuela","Hombre",64,"2017",13101
+"407","Santiago","Macul","Haití","Hombre",27,"2017",13101
+"408","Santiago","Santiago","República Dominicana","Hombre",21,"2017",13101
+"409","Santiago","Santiago","Haití","Hombre",74,"2017",13101
+"410","Santiago","Santiago","Colombia","Hombre",409,"2017",13101
+"411","Santiago","Providencia","Perú","Mujer",35,"2017",13101
+"412","Santiago","Santiago","Ecuador","Hombre",102,"2017",13101
+"413","Santiago","No responde","Cuba","Hombre",36,"2017",13101
+"414","Santiago","No responde","Venezuela","Mujer",65,"2017",13101
+"415","Santiago","Conchalí","Perú","Hombre",34,"2017",13101
+"416","Santiago","Santiago","Uruguay","Mujer",34,"2017",13101
+"417","Santiago","Providencia","Venezuela","Mujer",88,"2017",13101
+"418","Santiago","Santiago","Bolivia","Mujer",50,"2017",13101
+"419","Santiago","Santiago","Perú","Hombre",341,"2017",13101
+"420","Santiago","Santiago","República Dominicana","Mujer",91,"2017",13101
+"421","Santiago","Santiago","Perú","Mujer",505,"2017",13101
+"422","Santiago","No responde","Colombia","Hombre",25,"2017",13101
+"423","Santiago","Santiago","Venezuela","Mujer",699,"2017",13101
+"424","Santiago","Quinta Normal","Perú","Mujer",33,"2017",13101
+"425","Sierra Gorda","Calama","Perú","Mujer",29,"2017",2103
+"426","Sierra Gorda","Sierra Gorda","Perú","Mujer",16,"2017",2103
+"427","Sierra Gorda","Calama","Perú","Hombre",29,"2017",2103
+"428","Talca","Talca","Ecuador","Mujer",153,"2017",7101
+"429","Talca","Talca","Cuba","Mujer",253,"2017",7101
+"430","Temuco","Temuco","Argentina","Mujer",79,"2017",9101
+"431","Temuco","Temuco","Suecia","Mujer",77,"2017",9101
+"432","Temuco","Temuco","Venezuela","Mujer",67,"2017",9101
+"433","Temuco","Temuco","Haití","Mujer",59,"2017",9101
+"434","Temuco","Temuco","Haití","Hombre",59,"2017",9101
+"435","Tierra Amarilla","Tierra Amarilla","Bolivia","Mujer",69,"2017",3103
+"436","Tierra Amarilla","Tierra Amarilla","Bolivia","Hombre",69,"2017",3103
+"437","Tocopilla","Tocopilla","Bolivia","Hombre",49,"2017",2301
+"438","Tocopilla","Tocopilla","Bolivia","Mujer",82,"2017",2301
+"439","Valdivia","Valdivia","Argentina","Mujer",112,"2017",14101
+"440","Valdivia","Valdivia","Ecuador","Hombre",42,"2017",14101
+"441","Valdivia","Valdivia","Brasil","Hombre",28,"2017",14101
+"442","Valdivia","Valdivia","Ecuador","Mujer",42,"2017",14101
+"443","Valdivia","Valdivia","República Dominicana","Hombre",36,"2017",14101
+"444","Valdivia","Valdivia","Colombia","Mujer",27,"2017",14101
+"445","Vallenar","No responde","Bolivia","Hombre",37,"2017",3301
+"446","Vallenar","La Serena","Bolivia","Hombre",19,"2017",3301
+"447","Vallenar","Vallenar","Colombia","Hombre",80,"2017",3301
+"448","Vallenar","Vallenar","Colombia","Mujer",80,"2017",3301
+"449","Vallenar","Vallenar","Bolivia","Hombre",19,"2017",3301
+"450","Valparaíso","Valparaíso","Perú","Hombre",270,"2017",5101
+"451","Valparaíso","Valparaíso","Venezuela","Hombre",286,"2017",5101
+"452","Valparaíso","Providencia","Brasil","Mujer",65,"2017",5101
+"453","Valparaíso","Valparaíso","Venezuela","Mujer",107,"2017",5101
+"454","Victoria","Victoria","Alemania","Hombre",43,"2017",9211
+"455","Victoria","Victoria","Argentina","Hombre",51,"2017",9211
+"456","Villa Alegre","Villa Alegre","Bolivia","Mujer",99,"2017",7407
+"457","Villa Alemana","Valparaíso","Argentina","Hombre",123,"2017",5804
+"458","Villa Alemana","Villa Alemana","Colombia","Mujer",702,"2017",5804
+"459","Viña del Mar","Viña Del Mar","Costa Rica","Mujer",135,"2017",5109
+"460","Viña del Mar","Viña Del Mar","España","Mujer",68,"2017",5109
+"461","Viña del Mar","Viña Del Mar","Italia","Hombre",178,"2017",5109
+"462","Viña del Mar","Viña Del Mar","España","Hombre",68,"2017",5109
+"463","Viña del Mar","Viña Del Mar","Colombia","Hombre",62,"2017",5109
+"464","Viña del Mar","Valparaíso","España","Mujer",34,"2017",5109
+"465","Vitacura","Santiago","República Dominicana","Hombre",98,"2017",13132
+"466","Vitacura","Providencia","Brasil","Hombre",59,"2017",13132
+"467","Vitacura","Las Condes","Argentina","Mujer",118,"2017",13132
+"468","Vitacura","Providencia","Brasil","Mujer",59,"2017",13132
+"469","Vitacura","Las Condes","México","Mujer",164,"2017",13132
+"470","Vitacura","Las Condes","México","Hombre",82,"2017",13132
+"471","Vitacura","Providencia","Colombia","Mujer",107,"2017",13132
+"472","Vitacura","No responde","Argentina","Mujer",118,"2017",13132
+"473","Vitacura","Providencia","Colombia","Hombre",107,"2017",13132

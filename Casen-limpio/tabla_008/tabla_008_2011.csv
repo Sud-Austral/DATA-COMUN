@@ -1,0 +1,483 @@
+"","a","unlist.b.","unlist.c.","unlist.d.","Freq","anio","codigo"
+"1","alhué","alhué","argentina","hombre",54,"2011",13502
+"2","alto hospicio","iquique","perú","mujer",11,"2011",1107
+"3","alto hospicio","iquique","colombia","hombre",9,"2011",1107
+"4","alto hospicio","iquique","bolivia","mujer",26,"2011",1107
+"5","alto hospicio","alto hospicio","argentina","mujer",85,"2011",1107
+"6","alto hospicio","alto hospicio","ecuador","mujer",12,"2011",1107
+"7","alto hospicio","alto hospicio","bolivia","mujer",90,"2011",1107
+"8","alto hospicio","alto hospicio","perú","hombre",167,"2011",1107
+"9","alto hospicio","alto hospicio","india","mujer",15,"2011",1107
+"10","alto hospicio","alto hospicio","bolivia","hombre",100,"2011",1107
+"11","alto hospicio","iquique","perú","hombre",35,"2011",1107
+"12","alto hospicio","alto hospicio","argentina","hombre",11,"2011",1107
+"13","alto hospicio","alto hospicio","ecuador","hombre",24,"2011",1107
+"14","alto hospicio","extranjero","perú","mujer",12,"2011",1107
+"15","alto hospicio","iquique","bolivia","hombre",10,"2011",1107
+"16","alto hospicio","iquique","colombia","mujer",25,"2011",1107
+"17","antofagasta","antofagasta","venezuela","mujer",17,"2011",2101
+"18","antofagasta","antofagasta","colombia","mujer",73,"2011",2101
+"19","antofagasta","antofagasta","bolivia","hombre",60,"2011",2101
+"20","antofagasta","antofagasta","noruega","mujer",12,"2011",2101
+"21","antofagasta","antofagasta","argentina","hombre",53,"2011",2101
+"22","antofagasta","antofagasta","perú","hombre",185,"2011",2101
+"23","antofagasta","antofagasta","méxico","hombre",34,"2011",2101
+"24","antofagasta","antofagasta","ecuador","hombre",16,"2011",2101
+"25","antofagasta","antofagasta","estados unidos","hombre",12,"2011",2101
+"26","antofagasta","antofagasta","colombia","hombre",57,"2011",2101
+"27","antofagasta","antofagasta","méxico","mujer",34,"2011",2101
+"28","antofagasta","antofagasta","argentina","mujer",126,"2011",2101
+"29","antofagasta","ns/nr","perú","hombre",30,"2011",2101
+"30","antofagasta","antofagasta","noruega","hombre",39,"2011",2101
+"31","antofagasta","antofagasta","perú","mujer",92,"2011",2101
+"32","antofagasta","antofagasta","bolivia","mujer",58,"2011",2101
+"33","antofagasta","antofagasta","no contesta","mujer",42,"2011",2101
+"34","arica","arica","perú","hombre",316,"2011",15101
+"35","arica","arica","estados unidos","hombre",8,"2011",15101
+"36","arica","arica","bolivia","hombre",177,"2011",15101
+"37","arica","arica","colombia","hombre",16,"2011",15101
+"38","arica","arica","no contesta","hombre",10,"2011",15101
+"39","arica","arica","perú","mujer",161,"2011",15101
+"40","arica","arica","ecuador","mujer",11,"2011",15101
+"41","arica","ns/nr","perú","hombre",13,"2011",15101
+"42","arica","arica","ecuador","hombre",11,"2011",15101
+"43","arica","arica","brasil","hombre",26,"2011",15101
+"44","arica","arica","brasil","mujer",144,"2011",15101
+"45","arica","arica","argentina","hombre",12,"2011",15101
+"46","arica","arica","bolivia","mujer",97,"2011",15101
+"47","arica","arica","argentina","mujer",12,"2011",15101
+"48","arica","ns/nr","bolivia","hombre",10,"2011",15101
+"49","aysén","aysén","argentina","mujer",9,"2011",11201
+"50","aysén","aysén","colombia","hombre",16,"2011",11201
+"51","aysén","aysén","colombia","mujer",7,"2011",11201
+"52","aysén","aysén","argentina","hombre",11,"2011",11201
+"53","calama","calama","perú","mujer",19,"2011",2201
+"54","calama","calama","argentina","mujer",34,"2011",2201
+"55","calama","calama","bolivia","hombre",132,"2011",2201
+"56","calama","calama","perú","hombre",57,"2011",2201
+"57","calama","calama","bolivia","mujer",246,"2011",2201
+"58","calama","calama","brasil","mujer",18,"2011",2201
+"59","calbuco","calbuco","argentina","hombre",78,"2011",10102
+"60","calbuco","puerto montt","argentina","hombre",35,"2011",10102
+"61","calbuco","puerto montt","argentina","mujer",35,"2011",10102
+"62","caldera","caldera","perú","mujer",39,"2011",3102
+"63","caldera","caldera","perú","hombre",22,"2011",3102
+"64","calera","valparaíso","argentina","hombre",139,"2011",5502
+"65","calera","calera","argentina","hombre",139,"2011",5502
+"66","calera","san felipe","argentina","hombre",54,"2011",5502
+"67","camiña","camiña","bolivia","mujer",2,"2011",1402
+"68","carahue","temuco","argentina","hombre",27,"2011",9102
+"69","casablanca","viña del mar","uruguay","mujer",103,"2011",5102
+"70","castro","castro","francia","mujer",36,"2011",10201
+"71","castro","castro","francia","hombre",72,"2011",10201
+"72","cauquenes","cauquenes","ecuador","mujer",47,"2011",7201
+"73","cerrillos","cerrillos","uruguay","mujer",88,"2011",13102
+"74","cerro navia","providencia","argentina","hombre",116,"2011",13103
+"75","chañaral","ns/nr","bolivia","hombre",14,"2011",3201
+"76","chañaral","chañaral","estados unidos","hombre",25,"2011",3201
+"77","chañaral","chañaral","estados unidos","mujer",25,"2011",3201
+"78","chiguayante","chiguayante","antigua y barbuda","hombre",282,"2011",8103
+"79","chiguayante","san pedro de la paz","bélgica","hombre",141,"2011",8103
+"80","chiguayante","san pedro de la paz","bélgica","mujer",141,"2011",8103
+"81","chile chico","chile chico","argentina","mujer",15,"2011",11401
+"82","chile chico","chile chico","argentina","hombre",15,"2011",11401
+"83","chillán","chillán","argentina","mujer",80,"2011",16101
+"84","chillán","chillán","noruega","mujer",90,"2011",16101
+"85","cholchol","cholchol","argentina","mujer",14,"2011",9121
+"86","chonchi","castro","argentina","hombre",27,"2011",10203
+"87","cisnes","cisnes","ecuador","mujer",6,"2011",11202
+"88","cobquecura","cobquecura","estados unidos","mujer",9,"2011",16202
+"89","cochrane","cochrane","argentina","hombre",5,"2011",11301
+"90","coinco","coinco","argentina","mujer",24,"2011",6103
+"91","colina","ns/nr","república dominicana","mujer",85,"2011",13301
+"92","concepción","concepción","ecuador","mujer",121,"2011",8101
+"93","concepción","concepción","perú","hombre",177,"2011",8101
+"94","concepción","concepción","brasil","hombre",123,"2011",8101
+"95","conchalí","conchalí","perú","hombre",197,"2011",13104
+"96","conchalí","providencia","perú","mujer",59,"2011",13104
+"97","concón","viña del mar","estados unidos","hombre",384,"2011",5103
+"98","concón","concón","argentina","mujer",252,"2011",5103
+"99","concón","concón","italia","mujer",444,"2011",5103
+"100","concón","concón","argentina","hombre",230,"2011",5103
+"101","constitución","constitución","ecuador","hombre",100,"2011",7102
+"102","copiapó","copiapó","argentina","mujer",24,"2011",3101
+"103","copiapó","copiapó","españa","hombre",20,"2011",3101
+"104","copiapó","copiapó","colombia","hombre",18,"2011",3101
+"105","coquimbo","coquimbo","estados unidos","hombre",82,"2011",4102
+"106","coquimbo","coquimbo","estados unidos","mujer",55,"2011",4102
+"107","coquimbo","coquimbo","puerto rico","mujer",158,"2011",4102
+"108","coquimbo","coquimbo","perú","hombre",160,"2011",4102
+"109","coquimbo","coquimbo","reino unido","hombre",93,"2011",4102
+"110","coyhaique","concepción","argentina","hombre",14,"2011",11101
+"111","coyhaique","extranjero","argentina","hombre",4,"2011",11101
+"112","coyhaique","osorno","argentina","mujer",14,"2011",11101
+"113","coyhaique","valdivia","argentina","mujer",14,"2011",11101
+"114","coyhaique","santiago","argentina","hombre",4,"2011",11101
+"115","coyhaique","coyhaique","cuba","mujer",4,"2011",11101
+"116","coyhaique","temuco","españa","hombre",11,"2011",11101
+"117","coyhaique","santiago","uruguay","hombre",4,"2011",11101
+"118","coyhaique","coyhaique","bolivia","mujer",8,"2011",11101
+"119","coyhaique","coyhaique","argentina","mujer",23,"2011",11101
+"120","coyhaique","coyhaique","ecuador","hombre",4,"2011",11101
+"121","coyhaique","coyhaique","argentina","hombre",37,"2011",11101
+"122","coyhaique","temuco","argentina","mujer",3,"2011",11101
+"123","cunco","temuco","argentina","mujer",45,"2011",9103
+"124","curacautín","valparaíso","argentina","hombre",39,"2011",9203
+"125","curacautín","curacautín","argentina","hombre",197,"2011",9203
+"126","curacautín","temuco","argentina","hombre",38,"2011",9203
+"127","curacautín","curacautín","argentina","mujer",121,"2011",9203
+"128","curacaví","santiago","perú","mujer",61,"2011",13503
+"129","curarrehue","curarrehue","argentina","hombre",9,"2011",9104
+"130","curarrehue","curarrehue","argentina","mujer",30,"2011",9104
+"131","curicó","curicó","rusia","hombre",27,"2011",7301
+"132","curicó","talca","perú","mujer",24,"2011",7301
+"133","curicó","curicó","paraguay","mujer",16,"2011",7301
+"134","el bosque","santiago","brasil","mujer",98,"2011",13105
+"135","el carmen","chillán","brasil","mujer",26,"2011",16104
+"136","el monte","santiago","argentina","mujer",62,"2011",13602
+"137","estación central","santiago","suecia","hombre",158,"2011",13106
+"138","estación central","estación central","perú","hombre",577,"2011",13106
+"139","estación central","estación central","perú","mujer",577,"2011",13106
+"140","estación central","estación central","uruguay","mujer",144,"2011",13106
+"141","estación central","estación central","uruguay","hombre",288,"2011",13106
+"142","futrono","futrono","argentina","mujer",21,"2011",14202
+"143","futrono","futrono","argentina","hombre",21,"2011",14202
+"144","gorbea","gorbea","argentina","mujer",28,"2011",9107
+"145","gorbea","gorbea","argentina","hombre",62,"2011",9107
+"146","graneros","graneros","perú","hombre",46,"2011",6106
+"147","hualpén","hualpén","argentina","mujer",38,"2011",8112
+"148","hualpén","hualpén","perú","hombre",83,"2011",8112
+"149","hualpén","concepción","argentina","mujer",39,"2011",8112
+"150","huara","huara","bolivia","mujer",38,"2011",1404
+"151","huara","huara","bolivia","hombre",10,"2011",1404
+"152","independencia","independencia","ecuador","mujer",87,"2011",13108
+"153","independencia","independencia","perú","hombre",87,"2011",13108
+"154","independencia","independencia","perú","mujer",174,"2011",13108
+"155","independencia","recoleta","perú","mujer",87,"2011",13108
+"156","independencia","independencia","ecuador","hombre",87,"2011",13108
+"157","iquique","iquique","españa","mujer",5,"2011",1101
+"158","iquique","concepción","holanda","mujer",6,"2011",1101
+"159","iquique","iquique","perú","mujer",658,"2011",1101
+"160","iquique","iquique","paraguay","hombre",11,"2011",1101
+"161","iquique","iquique","perú","hombre",485,"2011",1101
+"162","iquique","iquique","estados unidos","hombre",9,"2011",1101
+"163","iquique","iquique","colombia","hombre",61,"2011",1101
+"164","iquique","valparaíso","estados unidos","hombre",9,"2011",1101
+"165","iquique","iquique","no contesta","hombre",9,"2011",1101
+"166","iquique","iquique","venezuela","hombre",11,"2011",1101
+"167","iquique","ns/nr","perú","mujer",13,"2011",1101
+"168","iquique","extranjero","bolivia","hombre",14,"2011",1101
+"169","iquique","alto hospicio","bolivia","hombre",43,"2011",1101
+"170","iquique","iquique","paraguay","mujer",17,"2011",1101
+"171","iquique","iquique","estados unidos","mujer",17,"2011",1101
+"172","iquique","iquique","brasil","hombre",10,"2011",1101
+"173","iquique","iquique","colombia","mujer",51,"2011",1101
+"174","iquique","iquique","bolivia","mujer",289,"2011",1101
+"175","iquique","iquique","argentina","hombre",20,"2011",1101
+"176","iquique","iquique","bolivia","hombre",112,"2011",1101
+"177","iquique","iquique","argentina","mujer",6,"2011",1101
+"178","iquique","extranjero","perú","mujer",9,"2011",1101
+"179","iquique","iquique","ecuador","mujer",71,"2011",1101
+"180","iquique","iquique","ecuador","hombre",62,"2011",1101
+"181","la cisterna","la cisterna","ecuador","hombre",61,"2011",13109
+"182","la cisterna","la cisterna","colombia","hombre",183,"2011",13109
+"183","la florida","santiago","otro país de africa","mujer",88,"2011",13110
+"184","la florida","providencia","perú","mujer",92,"2011",13110
+"185","la florida","Ñuñoa","argentina","hombre",134,"2011",13110
+"186","la florida","san joaquín","perú","hombre",415,"2011",13110
+"187","la florida","santiago","otro país de africa","hombre",88,"2011",13110
+"188","la florida","santiago","noruega","hombre",59,"2011",13110
+"189","la florida","la florida","perú","mujer",157,"2011",13110
+"190","la granja","la florida","argentina","hombre",109,"2011",13111
+"191","la granja","la florida","argentina","mujer",109,"2011",13111
+"192","la granja","santiago","argentina","hombre",398,"2011",13111
+"193","la granja","la granja","argentina","hombre",109,"2011",13111
+"194","la reina","extranjero","argentina","hombre",72,"2011",13113
+"195","la reina","pucón","argentina","hombre",72,"2011",13113
+"196","la reina","santiago","estados unidos","hombre",144,"2011",13113
+"197","la serena","la serena","brasil","mujer",53,"2011",4101
+"198","la serena","la serena","argentina","mujer",71,"2011",4101
+"199","la serena","la serena","canadá","mujer",40,"2011",4101
+"200","la serena","extranjero","argentina","hombre",44,"2011",4101
+"201","la unión","la unión","argentina","hombre",28,"2011",14201
+"202","lago ranco","lago ranco","argentina","hombre",17,"2011",14203
+"203","lampa","san joaquín","argentina","mujer",54,"2011",13302
+"204","las condes","las condes","alemania","hombre",48,"2011",13114
+"205","las condes","las condes","argentina","mujer",521,"2011",13114
+"206","las condes","las condes","bélgica","mujer",70,"2011",13114
+"207","las condes","providencia","canadá","hombre",84,"2011",13114
+"208","las condes","recoleta","méxico","mujer",60,"2011",13114
+"209","las condes","las condes","bélgica","hombre",140,"2011",13114
+"210","las condes","las condes","alemania","mujer",48,"2011",13114
+"211","las condes","san joaquín","bolivia","hombre",112,"2011",13114
+"212","las condes","las condes","francia","mujer",353,"2011",13114
+"213","las condes","las condes","brasil","hombre",621,"2011",13114
+"214","las condes","las condes","argentina","hombre",181,"2011",13114
+"215","limache","limache","perú","mujer",5,"2011",5802
+"216","limache","viña del mar","ecuador","mujer",57,"2011",5802
+"217","limache","valparaíso","perú","hombre",5,"2011",5802
+"218","limache","limache","ecuador","mujer",57,"2011",5802
+"219","limache","quillota","argentina","mujer",40,"2011",5802
+"220","litueche","litueche","japón","mujer",27,"2011",6203
+"221","lo barnechea","lo barnechea","estados unidos","mujer",365,"2011",13115
+"222","lo barnechea","lo barnechea","estados unidos","hombre",209,"2011",13115
+"223","lo barnechea","lo barnechea","australia","hombre",732,"2011",13115
+"224","lo barnechea","lo barnechea","reino unido","hombre",199,"2011",13115
+"225","lo prado","lo prado","perú","mujer",218,"2011",13117
+"226","loncoche","loncoche","argentina","mujer",23,"2011",9109
+"227","longaví","longaví","estados unidos","hombre",82,"2011",7403
+"228","lonquimay","lonquimay","argentina","hombre",24,"2011",9205
+"229","los andes","los andes","suecia","mujer",64,"2011",5301
+"230","los andes","quilpué","paraguay","hombre",84,"2011",5301
+"231","los andes","valparaíso","paraguay","mujer",84,"2011",5301
+"232","los andes","los andes","argentina","mujer",26,"2011",5301
+"233","los andes","los andes","canadá","hombre",54,"2011",5301
+"234","los lagos","los lagos","argentina","hombre",19,"2011",14104
+"235","los lagos","los lagos","colombia","hombre",18,"2011",14104
+"236","los lagos","los lagos","perú","mujer",18,"2011",14104
+"237","los muermos","los muermos","suiza","mujer",15,"2011",10106
+"238","los vilos","valparaíso","brasil","hombre",14,"2011",4203
+"239","lumaco","lumaco","bolivia","hombre",13,"2011",9207
+"240","machalí","rancagua","colombia","mujer",119,"2011",6108
+"241","macul","quinta normal","argentina","mujer",169,"2011",13118
+"242","maipú","maipú","españa","hombre",359,"2011",13119
+"243","maipú","maipú","estados unidos","mujer",570,"2011",13119
+"244","maipú","maipú","perú","mujer",306,"2011",13119
+"245","maipú","santiago","brasil","hombre",281,"2011",13119
+"246","mariquina","mariquina","argentina","hombre",12,"2011",14106
+"247","mariquina","san josé de maipo","argentina","mujer",4,"2011",14106
+"248","mariquina","lanco","argentina","mujer",12,"2011",14106
+"249","mariquina","valdivia","argentina","hombre",14,"2011",14106
+"250","mariquina","san josé de maipo","argentina","hombre",8,"2011",14106
+"251","maullín","maullín","argentina","mujer",12,"2011",10108
+"252","maullín","los muermos","argentina","hombre",12,"2011",10108
+"253","melipeuco","melipeuco","argentina","mujer",26,"2011",9110
+"254","melipeuco","angol","argentina","hombre",18,"2011",9110
+"255","melipilla","melipilla","estados unidos","hombre",123,"2011",13501
+"256","melipilla","huechuraba","brasil","mujer",162,"2011",13501
+"257","melipilla","melipilla","argentina","mujer",140,"2011",13501
+"258","melipilla","providencia","brasil","mujer",162,"2011",13501
+"259","mulchén","mulchén","suiza","mujer",142,"2011",8305
+"260","mulchén","mulchén","suiza","hombre",71,"2011",8305
+"261","natales","valdivia","argentina","hombre",19,"2011",12401
+"262","natales","natales","perú","mujer",13,"2011",12401
+"263","natales","natales","argentina","hombre",21,"2011",12401
+"264","nogales","nogales","españa","mujer",84,"2011",5506
+"265","Ñuñoa","la reina","españa","mujer",261,"2011",13120
+"266","Ñuñoa","santiago","perú","hombre",227,"2011",13120
+"267","Ñuñoa","santiago","australia","mujer",166,"2011",13120
+"268","Ñuñoa","santiago","perú","mujer",454,"2011",13120
+"269","Ñuñoa","huechuraba","estados unidos","mujer",133,"2011",13120
+"270","Ñuñoa","ns/nr","cuba","mujer",326,"2011",13120
+"271","Ñuñoa","Ñuñoa","colombia","hombre",294,"2011",13120
+"272","Ñuñoa","providencia","el salvador","hombre",165,"2011",13120
+"273","Ñuñoa","providencia","estados unidos","hombre",133,"2011",13120
+"274","olivar","olivar","paraguay","mujer",28,"2011",6111
+"275","osorno","osorno","argentina","mujer",48,"2011",10301
+"276","osorno","osorno","argentina","hombre",137,"2011",10301
+"277","osorno","osorno","reino unido","hombre",6,"2011",10301
+"278","padre hurtado","valparaíso","australia","hombre",113,"2011",13604
+"279","padre las casas","padre las casas","argentina","mujer",160,"2011",9112
+"280","padre las casas","padre las casas","argentina","hombre",30,"2011",9112
+"281","palmilla","santa cruz","brasil","mujer",16,"2011",6306
+"282","palmilla","santa cruz","brasil","hombre",16,"2011",6306
+"283","panguipulli","panguipulli","argentina","mujer",9,"2011",14108
+"284","pedro aguirre cerda","santiago","venezuela","mujer",58,"2011",13121
+"285","peñaflor","peñaflor","argentina","hombre",170,"2011",13605
+"286","peñalolén","santiago","argentina","mujer",58,"2011",13122
+"287","peñalolén","santiago","estados unidos","mujer",244,"2011",13122
+"288","peñalolén","peñalolén","argentina","mujer",58,"2011",13122
+"289","peñalolén","peñalolén","argentina","hombre",58,"2011",13122
+"290","peñalolén","las condes","colombia","hombre",95,"2011",13122
+"291","peñalolén","santiago","perú","hombre",766,"2011",13122
+"292","pica","pica","bolivia","hombre",14,"2011",1405
+"293","pica","pica","bolivia","mujer",30,"2011",1405
+"294","pica","pica","perú","hombre",94,"2011",1405
+"295","pitrufquén","pitrufquén","argentina","hombre",41,"2011",9114
+"296","pitrufquén","temuco","argentina","mujer",130,"2011",9114
+"297","porvenir","porvenir","colombia","mujer",8,"2011",12301
+"298","porvenir","porvenir","colombia","hombre",8,"2011",12301
+"299","pozo almonte","pozo almonte","perú","mujer",46,"2011",1401
+"300","pozo almonte","pozo almonte","bolivia","hombre",59,"2011",1401
+"301","pozo almonte","arica","bolivia","hombre",11,"2011",1401
+"302","pozo almonte","pozo almonte","perú","hombre",12,"2011",1401
+"303","pozo almonte","pozo almonte","bolivia","mujer",39,"2011",1401
+"304","providencia","santiago","francia","mujer",99,"2011",13123
+"305","providencia","las condes","estados unidos","mujer",92,"2011",13123
+"306","providencia","peñalolén","francia","mujer",99,"2011",13123
+"307","providencia","providencia","noruega","hombre",147,"2011",13123
+"308","puchuncaví","quintero","estados unidos","mujer",177,"2011",5105
+"309","puchuncaví","villa alemana","estados unidos","hombre",177,"2011",5105
+"310","pudahuel","pudahuel","perú","mujer",238,"2011",13124
+"311","pudahuel","santiago","argentina","hombre",345,"2011",13124
+"312","puente alto","santiago","ecuador","mujer",89,"2011",13201
+"313","puente alto","la florida","bolivia","mujer",96,"2011",13201
+"314","puente alto","puente alto","bolivia","mujer",96,"2011",13201
+"315","puente alto","santiago","colombia","mujer",89,"2011",13201
+"316","puente alto","la pintana","argentina","mujer",75,"2011",13201
+"317","puerto montt","puerto montt","suiza","mujer",92,"2011",10101
+"318","puerto montt","puerto montt","argentina","mujer",82,"2011",10101
+"319","punitaqui","punitaqui","argentina","mujer",32,"2011",4304
+"320","punta arenas","punta arenas","venezuela","mujer",13,"2011",12101
+"321","punta arenas","punta arenas","argentina","mujer",89,"2011",12101
+"322","punta arenas","punta arenas","canadá","mujer",75,"2011",12101
+"323","punta arenas","punta arenas","argentina","hombre",93,"2011",12101
+"324","punta arenas","punta arenas","república dominicana","mujer",9,"2011",12101
+"325","punta arenas","punta arenas","ecuador","hombre",13,"2011",12101
+"326","punta arenas","punta arenas","méxico","hombre",68,"2011",12101
+"327","punta arenas","punta arenas","venezuela","hombre",13,"2011",12101
+"328","punta arenas","punta arenas","no contesta","hombre",18,"2011",12101
+"329","punta arenas","punta arenas","estados unidos","hombre",75,"2011",12101
+"330","punta arenas","punta arenas","república dominicana","hombre",9,"2011",12101
+"331","putre","putre","bolivia","hombre",3,"2011",15201
+"332","putre","putre","bolivia","mujer",9,"2011",15201
+"333","quilicura","quilicura","argentina","mujer",228,"2011",13125
+"334","quilicura","santiago","argentina","mujer",114,"2011",13125
+"335","quilicura","quilicura","estados unidos","mujer",255,"2011",13125
+"336","quilicura","quilicura","haití","hombre",84,"2011",13125
+"337","quillota","quillón","bélgica","hombre",78,"2011",5501
+"338","quillota","quillota","perú","mujer",308,"2011",5501
+"339","quilpué","viña del mar","brasil","hombre",67,"2011",5801
+"340","quilpué","quilpué","españa","mujer",20,"2011",5801
+"341","quilpué","viña del mar","reino unido","mujer",60,"2011",5801
+"342","quilpué","santiago","suecia","hombre",66,"2011",5801
+"343","quilpué","valparaíso","argentina","mujer",97,"2011",5801
+"344","quilpué","quilpué","estados unidos","hombre",69,"2011",5801
+"345","quilpué","quilpué","estados unidos","mujer",69,"2011",5801
+"346","quinchao","quinchao","argentina","hombre",39,"2011",10210
+"347","quinta normal","quinta normal","perú","hombre",103,"2011",13126
+"348","quinta normal","santiago","perú","hombre",176,"2011",13126
+"349","quintero","valparaíso","argentina","hombre",94,"2011",5107
+"350","quintero","concón","bolivia","mujer",154,"2011",5107
+"351","rancagua","santiago","colombia","mujer",68,"2011",6101
+"352","rancagua","rancagua","colombia","mujer",194,"2011",6101
+"353","rancagua","rancagua","argentina","hombre",60,"2011",6101
+"354","rancagua","rancagua","argentina","mujer",125,"2011",6101
+"355","rancagua","antofagasta","argentina","mujer",47,"2011",6101
+"356","rancagua","rancagua","colombia","hombre",154,"2011",6101
+"357","recoleta","recoleta","perú","mujer",291,"2011",13127
+"358","recoleta","independencia","perú","hombre",87,"2011",13127
+"359","recoleta","las condes","perú","hombre",146,"2011",13127
+"360","recoleta","santiago","perú","hombre",87,"2011",13127
+"361","recoleta","providencia","españa","mujer",106,"2011",13127
+"362","recoleta","recoleta","argentina","mujer",192,"2011",13127
+"363","renaico","renaico","argentina","mujer",38,"2011",9209
+"364","rengo","santiago","rumanía","mujer",32,"2011",6115
+"365","rengo","rancagua","argentina","hombre",32,"2011",6115
+"366","requínoa","requínoa","turquía","hombre",76,"2011",6116
+"367","rinconada","santiago","otro país de africa","hombre",6,"2011",5303
+"368","río bueno","osorno","argentina","mujer",13,"2011",14204
+"369","río ibáñez","río ibáñez","estados unidos","hombre",12,"2011",11402
+"370","río ibáñez","río ibáñez","argentina","mujer",12,"2011",11402
+"371","sagrada familia","sagrada familia","argentina","hombre",28,"2011",7307
+"372","salamanca","ns/nr","argentina","mujer",41,"2011",4204
+"373","salamanca","la serena","argentina","mujer",41,"2011",4204
+"374","salamanca","ns/nr","argentina","hombre",41,"2011",4204
+"375","san antonio","san antonio","ecuador","mujer",62,"2011",5601
+"376","san antonio","san antonio","ecuador","hombre",62,"2011",5601
+"377","san antonio","santiago","ecuador","hombre",62,"2011",5601
+"378","san antonio","san antonio","grecia","hombre",138,"2011",5601
+"379","san felipe","san felipe","ecuador","hombre",147,"2011",5701
+"380","san felipe","viña del mar","españa","mujer",50,"2011",5701
+"381","san felipe","san felipe","españa","hombre",50,"2011",5701
+"382","san fernando","san fernando","paraguay","mujer",31,"2011",6301
+"383","san joaquín","san joaquín","perú","mujer",56,"2011",13129
+"384","san joaquín","san joaquín","estados unidos","mujer",92,"2011",13129
+"385","san joaquín","san joaquín","perú","hombre",168,"2011",13129
+"386","san joaquín","san joaquín","italia","hombre",57,"2011",13129
+"387","san joaquín","san joaquín","venezuela","hombre",72,"2011",13129
+"388","san miguel","santiago","argentina","mujer",139,"2011",13130
+"389","san miguel","san joaquín","perú","hombre",115,"2011",13130
+"390","san miguel","las condes","perú","mujer",104,"2011",13130
+"391","san miguel","pedro aguirre cerda","perú","mujer",104,"2011",13130
+"392","san miguel","san joaquín","bolivia","hombre",110,"2011",13130
+"393","san pedro de atacama","san pedro de atacama","perú","mujer",38,"2011",2203
+"394","san pedro de la paz","san pedro","alemania","mujer",133,"2011",8108
+"395","san pedro de la paz","san pedro","alemania","hombre",133,"2011",8108
+"396","san pedro de la paz","san pedro de atacama","argentina","hombre",154,"2011",8108
+"397","san pedro de la paz","san pedro","argentina","hombre",54,"2011",8108
+"398","san ramón","la cisterna","perú","mujer",141,"2011",13131
+"399","san ramón","la cisterna","argentina","hombre",93,"2011",13131
+"400","san ramón","santiago","argentina","mujer",93,"2011",13131
+"401","san ramón","san bernardo","argentina","mujer",93,"2011",13131
+"402","san ramón","san ramón","argentina","mujer",93,"2011",13131
+"403","santa cruz","santa cruz","alemania","mujer",123,"2011",6310
+"404","santiago","providencia","perú","mujer",69,"2011",13101
+"405","santiago","santiago","perú","mujer",996,"2011",13101
+"406","santiago","santiago","perú","hombre",742,"2011",13101
+"407","santiago","independencia","perú","hombre",107,"2011",13101
+"408","santiago","santiago","ecuador","mujer",98,"2011",13101
+"409","santiago","providencia","cuba","hombre",49,"2011",13101
+"410","santiago","recoleta","perú","hombre",69,"2011",13101
+"411","santiago","santiago","honduras","mujer",208,"2011",13101
+"412","santiago","santiago","colombia","mujer",106,"2011",13101
+"413","talagante","santiago","argentina","hombre",520,"2011",13601
+"414","talagante","talagante","argentina","hombre",70,"2011",13601
+"415","talagante","talagante","argentina","mujer",210,"2011",13601
+"416","talagante","recoleta","argentina","mujer",520,"2011",13601
+"417","talca","talca","brasil","mujer",49,"2011",7101
+"418","talca","ns/nr","italia","mujer",33,"2011",7101
+"419","talca","ns/nr","argentina","mujer",65,"2011",7101
+"420","talca","talca","colombia","hombre",160,"2011",7101
+"421","talcahuano","concepción","argentina","mujer",39,"2011",8110
+"422","temuco","temuco","brasil","hombre",76,"2011",9101
+"423","temuco","temuco","españa","mujer",74,"2011",9101
+"424","temuco","temuco","argentina","hombre",457,"2011",9101
+"425","temuco","temuco","perú","mujer",78,"2011",9101
+"426","temuco","temuco","argentina","mujer",205,"2011",9101
+"427","temuco","temuco","estados unidos","hombre",74,"2011",9101
+"428","tierra amarilla","tierra amarilla","perú","mujer",13,"2011",3103
+"429","tocopilla","tocopilla","argentina","mujer",5,"2011",2301
+"430","tocopilla","tocopilla","perú","hombre",36,"2011",2301
+"431","tocopilla","tocopilla","argentina","hombre",5,"2011",2301
+"432","toltén","toltén","argentina","mujer",21,"2011",9118
+"433","tomé","concepción","argentina","mujer",75,"2011",8111
+"434","tomé","concepción","argentina","hombre",78,"2011",8111
+"435","treguaco","treguaco","paraguay","hombre",30,"2011",16207
+"436","valdivia","valdivia","argentina","mujer",83,"2011",14101
+"437","valdivia","valdivia","francia","mujer",14,"2011",14101
+"438","valdivia","valdivia","brasil","mujer",27,"2011",14101
+"439","valdivia","valdivia","puerto rico","hombre",9,"2011",14101
+"440","valdivia","valdivia","estados unidos","hombre",14,"2011",14101
+"441","valdivia","valdivia","ecuador","hombre",59,"2011",14101
+"442","valdivia","valdivia","colombia","mujer",18,"2011",14101
+"443","valdivia","valdivia","alemania","hombre",3,"2011",14101
+"444","valdivia","valdivia","españa","mujer",9,"2011",14101
+"445","valdivia","valdivia","ecuador","mujer",9,"2011",14101
+"446","valdivia","valdivia","costa rica","hombre",24,"2011",14101
+"447","valdivia","valdivia","argentina","hombre",39,"2011",14101
+"448","vallenar","copiapó","venezuela","hombre",13,"2011",3301
+"449","valparaíso","valparaíso","españa","mujer",92,"2011",5101
+"450","valparaíso","quilpué","brasil","hombre",69,"2011",5101
+"451","valparaíso","valparaíso","estados unidos","hombre",64,"2011",5101
+"452","valparaíso","valparaíso","francia","mujer",166,"2011",5101
+"453","valparaíso","viña del mar","australia","hombre",79,"2011",5101
+"454","valparaíso","ns/nr","estados unidos","hombre",145,"2011",5101
+"455","victoria","victoria","argentina","hombre",60,"2011",9211
+"456","victoria","victoria","argentina","mujer",60,"2011",9211
+"457","vicuña","vicuña","argentina","mujer",37,"2011",4106
+"458","vicuña","la serena","argentina","mujer",37,"2011",4106
+"459","villa alemana","villa alemana","colombia","hombre",90,"2011",5804
+"460","villa alemana","villa alemana","estados unidos","hombre",128,"2011",5804
+"461","villa alemana","viña del mar","argentina","mujer",61,"2011",5804
+"462","villa alemana","villa alemana","argentina","mujer",61,"2011",5804
+"463","villa alemana","villa alemana","bolivia","mujer",286,"2011",5804
+"464","villa alemana","viña del mar","argentina","hombre",189,"2011",5804
+"465","villa alemana","villa alemana","argentina","hombre",61,"2011",5804
+"466","villa alemana","villa alemana","bolivia","hombre",143,"2011",5804
+"467","villarrica","la serena","argentina","hombre",47,"2011",9120
+"468","villarrica","villarrica","argentina","mujer",48,"2011",9120
+"469","viña del mar","viña del mar","colombia","hombre",107,"2011",5109
+"470","viña del mar","viña del mar","argentina","hombre",151,"2011",5109
+"471","viña del mar","valparaíso","españa","mujer",81,"2011",5109
+"472","viña del mar","valparaíso","uruguay","hombre",150,"2011",5109
+"473","viña del mar","viña del mar","españa","mujer",130,"2011",5109
+"474","viña del mar","viña del mar","argentina","mujer",302,"2011",5109
+"475","viña del mar","valparaíso","colombia","mujer",107,"2011",5109
+"476","vitacura","providencia","estados unidos","mujer",115,"2011",13132
+"477","vitacura","vitacura","canadá","mujer",77,"2011",13132
+"478","vitacura","las condes","españa","mujer",75,"2011",13132
+"479","vitacura","santiago","estados unidos","hombre",75,"2011",13132
+"480","vitacura","providencia","reino unido","mujer",194,"2011",13132
+"481","vitacura","la reina","venezuela","hombre",201,"2011",13132
+"482","yerbas buenas","talca","brasil","hombre",26,"2011",7408

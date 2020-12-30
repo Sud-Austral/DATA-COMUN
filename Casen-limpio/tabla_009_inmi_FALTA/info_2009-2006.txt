@@ -1,0 +1,1 @@
+no se logra identificar la variable 'r1p_cod o r1a_cod'

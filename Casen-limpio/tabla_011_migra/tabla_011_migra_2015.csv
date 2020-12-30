@@ -1,0 +1,562 @@
+"a","unlist.b.","unlist.c.","unlist.d.","Freq","anio","codigo"
+"alto hospicio","no","ecuador","mujer",71,"2015",1107
+"alto hospicio","sí, ahora mismo","bolivia","hombre",38,"2015",1107
+"alto hospicio","no","paraguay","mujer",31,"2015",1107
+"alto hospicio","no","perú","mujer",209,"2015",1107
+"alto hospicio","sí, en otra época del año","colombia","hombre",21,"2015",1107
+"alto hospicio","sí, ahora mismo","perú","hombre",115,"2015",1107
+"alto hospicio","sí, en otra época del año","colombia","mujer",37,"2015",1107
+"alto hospicio","sí, ahora mismo","bolivia","mujer",50,"2015",1107
+"alto hospicio","sí, ahora mismo","perú","mujer",78,"2015",1107
+"alto hospicio","no","bolivia","mujer",594,"2015",1107
+"alto hospicio","sí, en otra época del año","bolivia","mujer",50,"2015",1107
+"alto hospicio","no","perú","hombre",202,"2015",1107
+"alto hospicio","no","bolivia","hombre",113,"2015",1107
+"alto hospicio","sí, en otra época del año","perú","mujer",37,"2015",1107
+"alto hospicio","no","colombia","mujer",50,"2015",1107
+"alto hospicio","sí, ahora mismo","colombia","mujer",21,"2015",1107
+"ancud","no","colombia","hombre",53,"2015",10202
+"angol","sí, ahora mismo","república dominicana","mujer",22,"2015",9201
+"antofagasta","no","colombia","hombre",40,"2015",2101
+"antofagasta","sí, en otra época del año","uruguay","mujer",126,"2015",2101
+"antofagasta","no","colombia","mujer",121,"2015",2101
+"antofagasta","sí, en otra época del año","bolivia","hombre",161,"2015",2101
+"antofagasta","no","bolivia","hombre",155,"2015",2101
+"antofagasta","no","bolivia","mujer",364,"2015",2101
+"antofagasta","no","paraguay","mujer",300,"2015",2101
+"antofagasta","sí, en otra época del año","perú","hombre",185,"2015",2101
+"antofagasta","no","perú","mujer",93,"2015",2101
+"antofagasta","sí, en otra época del año","colombia","mujer",543,"2015",2101
+"antofagasta","sí, en otra época del año","argentina","mujer",155,"2015",2101
+"antofagasta","sí, en otra época del año","paraguay","mujer",75,"2015",2101
+"antofagasta","sí, ahora mismo","perú","hombre",91,"2015",2101
+"antofagasta","sí, en otra época del año","cuba","mujer",107,"2015",2101
+"antofagasta","sí, en otra época del año","perú","mujer",96,"2015",2101
+"arauco","no","italia","mujer",58,"2015",8202
+"arica","no","colombia","hombre",104,"2015",15101
+"arica","no","argentina","mujer",82,"2015",15101
+"arica","sí, ahora mismo","bolivia","mujer",61,"2015",15101
+"arica","no","colombia","mujer",41,"2015",15101
+"arica","no","perú","mujer",398,"2015",15101
+"arica","sí, en otra época del año","perú","mujer",38,"2015",15101
+"arica","no","bolivia","mujer",551,"2015",15101
+"arica","no","venezuela","mujer",77,"2015",15101
+"arica","no","bolivia","hombre",89,"2015",15101
+"arica","sí, ahora mismo","perú","mujer",118,"2015",15101
+"arica","no","perú","hombre",257,"2015",15101
+"aysén","sí, ahora mismo","estados unidos","mujer",23,"2015",11201
+"aysén","no","argentina","mujer",27,"2015",11201
+"calama","sí, en otra época del año","méxico","mujer",99,"2015",2201
+"calama","sí, en otra época del año","bolivia","hombre",364,"2015",2201
+"calama","no","rusia","mujer",119,"2015",2201
+"calama","sí, en otra época del año","bolivia","mujer",181,"2015",2201
+"calama","no","colombia","mujer",112,"2015",2201
+"calama","sí, ahora mismo","bolivia","hombre",304,"2015",2201
+"calama","sí, ahora mismo","ecuador","hombre",82,"2015",2201
+"calama","no","colombia","hombre",136,"2015",2201
+"calama","no","bolivia","mujer",1173,"2015",2201
+"calama","sí, ahora mismo","bolivia","mujer",609,"2015",2201
+"calama","no","bolivia","hombre",456,"2015",2201
+"calama","sí, en otra época del año","argentina","mujer",65,"2015",2201
+"calama","sí, ahora mismo","perú","mujer",125,"2015",2201
+"calama","no","perú","mujer",85,"2015",2201
+"calama","no","perú","hombre",85,"2015",2201
+"cañete","sí, ahora mismo","ecuador","mujer",14,"2015",8203
+"carahue","no","argentina","hombre",31,"2015",9102
+"castro","no","colombia","hombre",13,"2015",10201
+"castro","no","polonia","mujer",13,"2015",10201
+"castro","no","colombia","mujer",13,"2015",10201
+"castro","no","bolivia","mujer",22,"2015",10201
+"castro","no","argentina","hombre",37,"2015",10201
+"cerro navia","no","perú","mujer",141,"2015",13103
+"cerro navia","sí, ahora mismo","paraguay","mujer",141,"2015",13103
+"chañaral","sí, ahora mismo","colombia","mujer",6,"2015",3201
+"chañaral","sí, en otra época del año","bolivia","mujer",8,"2015",3201
+"chiguayante","sí, ahora mismo","canadá","hombre",46,"2015",8103
+"chiguayante","sí, ahora mismo","canadá","mujer",46,"2015",8103
+"chile chico","sí, en otra época del año","venezuela","mujer",26,"2015",11401
+"chile chico","no","argentina","hombre",20,"2015",11401
+"chillán viejo","no","perú","mujer",16,"2015",16103
+"chimbarongo","no","argentina","mujer",27,"2015",6303
+"colbún","sí, en otra época del año","estados unidos","mujer",9,"2015",7402
+"colina","no","argentina","mujer",199,"2015",13301
+"colina","no","república dominicana","hombre",108,"2015",13301
+"colina","no","república dominicana","mujer",192,"2015",13301
+"colina","sí, ahora mismo","bolivia","mujer",123,"2015",13301
+"colina","no","perú","mujer",83,"2015",13301
+"colina","sí, ahora mismo","argentina","hombre",199,"2015",13301
+"concepción","no","costa rica","mujer",46,"2015",8101
+"concepción","no","canadá","mujer",168,"2015",8101
+"concepción","sí, ahora mismo","perú","mujer",77,"2015",8101
+"conchalí","sí, ahora mismo","colombia","mujer",18,"2015",13104
+"conchalí","no","perú","mujer",116,"2015",13104
+"conchalí","sí, en otra época del año","colombia","mujer",18,"2015",13104
+"conchalí","no","bolivia","hombre",40,"2015",13104
+"conchalí","no","guatemala","mujer",10,"2015",13104
+"conchalí","no","bolivia","mujer",20,"2015",13104
+"conchalí","no","colombia","hombre",18,"2015",13104
+"conchalí","sí, ahora mismo","ecuador","mujer",17,"2015",13104
+"conchalí","no","ecuador","hombre",57,"2015",13104
+"conchalí","no","estados unidos","hombre",50,"2015",13104
+"conchalí","no","argentina","hombre",50,"2015",13104
+"conchalí","sí, ahora mismo","colombia","hombre",43,"2015",13104
+"conchalí","no","perú","hombre",17,"2015",13104
+"conchalí","no","ecuador","mujer",17,"2015",13104
+"conchalí","no","méxico","mujer",24,"2015",13104
+"conchalí","no","colombia","mujer",23,"2015",13104
+"conchalí","sí, ahora mismo","perú","hombre",67,"2015",13104
+"conchalí","sí, en otra época del año","perú","hombre",27,"2015",13104
+"conchalí","sí, en otra época del año","perú","mujer",340,"2015",13104
+"conchalí","sí, ahora mismo","haití","hombre",12,"2015",13104
+"conchalí","no","uruguay","hombre",24,"2015",13104
+"concón","sí, en otra época del año","brasil","mujer",144,"2015",5103
+"concón","no","españa","hombre",46,"2015",5103
+"concón","no","canadá","hombre",33,"2015",5103
+"concón","no","bélgica","hombre",64,"2015",5103
+"concón","no","perú","mujer",152,"2015",5103
+"concón","no","suecia","hombre",39,"2015",5103
+"concón","no","españa","mujer",46,"2015",5103
+"concón","no","perú","hombre",76,"2015",5103
+"concón","sí, en otra época del año","venezuela","mujer",70,"2015",5103
+"concón","no","bélgica","mujer",32,"2015",5103
+"copiapó","sí, ahora mismo","colombia","hombre",17,"2015",3101
+"copiapó","no","ecuador","hombre",16,"2015",3101
+"copiapó","sí, en otra época del año","bolivia","mujer",20,"2015",3101
+"copiapó","no","colombia","hombre",30,"2015",3101
+"copiapó","sí, ahora mismo","paraguay","mujer",10,"2015",3101
+"copiapó","no","argentina","mujer",28,"2015",3101
+"copiapó","no","canadá","hombre",27,"2015",3101
+"copiapó","sí, ahora mismo","ecuador","mujer",37,"2015",3101
+"copiapó","sí, ahora mismo","argentina","mujer",12,"2015",3101
+"copiapó","sí, en otra época del año","colombia","hombre",19,"2015",3101
+"copiapó","no","colombia","mujer",100,"2015",3101
+"copiapó","no","brasil","mujer",13,"2015",3101
+"copiapó","sí, ahora mismo","brasil","hombre",16,"2015",3101
+"copiapó","sí, ahora mismo","colombia","mujer",72,"2015",3101
+"copiapó","sí, en otra época del año","perú","mujer",19,"2015",3101
+"copiapó","no","bolivia","mujer",31,"2015",3101
+"copiapó","sí, en otra época del año","brasil","mujer",62,"2015",3101
+"copiapó","no","ecuador","mujer",29,"2015",3101
+"copiapó","sí, en otra época del año","brasil","hombre",16,"2015",3101
+"copiapó","sí, en otra época del año","bolivia","hombre",20,"2015",3101
+"copiapó","no","perú","mujer",91,"2015",3101
+"copiapó","sí, ahora mismo","perú","mujer",52,"2015",3101
+"copiapó","no","italia","mujer",3,"2015",3101
+"coquimbo","no","ecuador","mujer",298,"2015",4102
+"coquimbo","sí, ahora mismo","serbia","hombre",121,"2015",4102
+"coquimbo","no","colombia","mujer",166,"2015",4102
+"coquimbo","sí, en otra época del año","perú","mujer",88,"2015",4102
+"coquimbo","no","españa","mujer",85,"2015",4102
+"coquimbo","no","argentina","mujer",71,"2015",4102
+"coquimbo","no","colombia","hombre",88,"2015",4102
+"coquimbo","no","argentina","hombre",71,"2015",4102
+"coquimbo","sí, ahora mismo","colombia","mujer",60,"2015",4102
+"coquimbo","sí, ahora mismo","ecuador","mujer",73,"2015",4102
+"coquimbo","no","bolivia","mujer",105,"2015",4102
+"coyhaique","no","venezuela","mujer",88,"2015",11101
+"coyhaique","sí, en otra época del año","colombia","hombre",50,"2015",11101
+"coyhaique","no","argentina","hombre",20,"2015",11101
+"coyhaique","no","colombia","mujer",60,"2015",11101
+"coyhaique","sí, en otra época del año","perú","mujer",40,"2015",11101
+"coyhaique","no","argentina","mujer",37,"2015",11101
+"cunco","no","no contesta","mujer",20,"2015",9103
+"el bosque","no","perú","mujer",45,"2015",13105
+"el bosque","sí, en otra época del año","perú","hombre",49,"2015",13105
+"el bosque","no","siria","mujer",37,"2015",13105
+"el bosque","sí, en otra época del año","estados unidos","hombre",34,"2015",13105
+"el bosque","no","venezuela","mujer",53,"2015",13105
+"el bosque","no","argentina","mujer",42,"2015",13105
+"el bosque","sí, ahora mismo","perú","mujer",29,"2015",13105
+"el bosque","sí, ahora mismo","argentina","mujer",40,"2015",13105
+"el quisco","sí, en otra época del año","brasil","mujer",20,"2015",5604
+"el quisco","no","suecia","mujer",13,"2015",5604
+"estación central","no","perú","mujer",558,"2015",13106
+"estación central","sí, ahora mismo","colombia","mujer",230,"2015",13106
+"estación central","no","república dominicana","mujer",230,"2015",13106
+"estación central","sí, ahora mismo","haití","hombre",108,"2015",13106
+"estación central","sí, ahora mismo","perú","hombre",120,"2015",13106
+"estación central","sí, ahora mismo","perú","mujer",162,"2015",13106
+"estación central","no","perú","hombre",270,"2015",13106
+"estación central","sí, ahora mismo","haití","mujer",122,"2015",13106
+"freire","no","argentina","hombre",34,"2015",9105
+"iquique","no","ecuador","mujer",113,"2015",1101
+"iquique","sí, en otra época del año","perú","mujer",166,"2015",1101
+"iquique","sí, ahora mismo","colombia","hombre",30,"2015",1101
+"iquique","sí, ahora mismo","perú","hombre",149,"2015",1101
+"iquique","sí, en otra época del año","ecuador","hombre",76,"2015",1101
+"iquique","sí, en otra época del año","república dominicana","mujer",43,"2015",1101
+"iquique","sí, ahora mismo","bolivia","mujer",358,"2015",1101
+"iquique","no","venezuela","hombre",90,"2015",1101
+"iquique","no","bolivia","mujer",1274,"2015",1101
+"iquique","no","colombia","mujer",277,"2015",1101
+"iquique","no","perú","hombre",539,"2015",1101
+"iquique","sí, en otra época del año","bolivia","hombre",166,"2015",1101
+"iquique","sí, ahora mismo","perú","mujer",215,"2015",1101
+"iquique","sí, ahora mismo","argentina","hombre",45,"2015",1101
+"iquique","sí, ahora mismo","colombia","mujer",275,"2015",1101
+"iquique","sí, en otra época del año","bolivia","mujer",25,"2015",1101
+"iquique","no","españa","mujer",67,"2015",1101
+"iquique","sí, en otra época del año","perú","hombre",126,"2015",1101
+"iquique","no","colombia","hombre",365,"2015",1101
+"iquique","sí, en otra época del año","colombia","mujer",180,"2015",1101
+"iquique","no","bolivia","hombre",94,"2015",1101
+"iquique","no","perú","mujer",488,"2015",1101
+"la florida","no","perú","mujer",122,"2015",13110
+"la florida","no","argentina","mujer",200,"2015",13110
+"la florida","no","brasil","mujer",53,"2015",13110
+"la florida","no","cuba","mujer",135,"2015",13110
+"la florida","sí, ahora mismo","perú","mujer",359,"2015",13110
+"la granja","sí, en otra época del año","perú","mujer",162,"2015",13111
+"la pintana","sí, en otra época del año","colombia","mujer",128,"2015",13112
+"la pintana","no","perú","mujer",129,"2015",13112
+"la serena","no","alemania","hombre",35,"2015",4101
+"la serena","sí, ahora mismo","argentina","mujer",260,"2015",4101
+"la serena","no","colombia","mujer",84,"2015",4101
+"la serena","no","tailandia","mujer",49,"2015",4101
+"la serena","no","ecuador","mujer",126,"2015",4101
+"la serena","no","alemania","mujer",99,"2015",4101
+"la serena","no","colombia","hombre",49,"2015",4101
+"la serena","sí, en otra época del año","brasil","hombre",52,"2015",4101
+"la serena","sí, en otra época del año","república dominicana","mujer",78,"2015",4101
+"la serena","sí, en otra época del año","colombia","hombre",52,"2015",4101
+"la serena","no","perú","mujer",195,"2015",4101
+"laja","sí, en otra época del año","perú","mujer",34,"2015",8304
+"las condes","no","estados unidos","hombre",107,"2015",13114
+"las condes","no","alemania","hombre",172,"2015",13114
+"las condes","no","italia","hombre",69,"2015",13114
+"las condes","no","estados unidos","mujer",131,"2015",13114
+"las condes","no","colombia","hombre",225,"2015",13114
+"las condes","no","reino unido","hombre",55,"2015",13114
+"las condes","sí, ahora mismo","alemania","mujer",129,"2015",13114
+"las condes","sí, en otra época del año","polonia","mujer",39,"2015",13114
+"las condes","sí, ahora mismo","españa","hombre",205,"2015",13114
+"las condes","no","uruguay","mujer",80,"2015",13114
+"las condes","sí, en otra época del año","brasil","mujer",142,"2015",13114
+"las condes","sí, en otra época del año","alemania","mujer",52,"2015",13114
+"las condes","sí, en otra época del año","estados unidos","hombre",100,"2015",13114
+"las condes","no","italia","mujer",145,"2015",13114
+"las condes","sí, ahora mismo","españa","mujer",228,"2015",13114
+"las condes","sí, en otra época del año","méxico","mujer",107,"2015",13114
+"las condes","sí, en otra época del año","corea del sur","mujer",76,"2015",13114
+"las condes","sí, en otra época del año","uruguay","mujer",103,"2015",13114
+"las condes","no","costa rica","hombre",127,"2015",13114
+"las condes","no","francia","mujer",226,"2015",13114
+"las condes","no","corea del sur","hombre",76,"2015",13114
+"las condes","sí, ahora mismo","costa rica","mujer",254,"2015",13114
+"las condes","no","perú","mujer",129,"2015",13114
+"las condes","no","alemania","mujer",71,"2015",13114
+"las condes","sí, ahora mismo","francia","mujer",113,"2015",13114
+"las condes","no","bolivia","hombre",41,"2015",13114
+"las condes","sí, ahora mismo","estados unidos","mujer",63,"2015",13114
+"las condes","sí, en otra época del año","estados unidos","mujer",100,"2015",13114
+"las condes","no","australia","mujer",79,"2015",13114
+"las condes","no","argentina","mujer",280,"2015",13114
+"las condes","no","venezuela","mujer",225,"2015",13114
+"las condes","sí, ahora mismo","venezuela","hombre",125,"2015",13114
+"las condes","no","españa","mujer",76,"2015",13114
+"las condes","sí, en otra época del año","colombia","hombre",127,"2015",13114
+"las condes","sí, en otra época del año","españa","mujer",40,"2015",13114
+"las condes","sí, ahora mismo","argentina","mujer",76,"2015",13114
+"las condes","no","colombia","mujer",225,"2015",13114
+"las condes","sí, en otra época del año","argentina","hombre",92,"2015",13114
+"las condes","no","ecuador","hombre",41,"2015",13114
+"limache","no","venezuela","hombre",73,"2015",5802
+"limache","no","venezuela","mujer",73,"2015",5802
+"limache","sí, ahora mismo","francia","hombre",46,"2015",5802
+"limache","no","alemania","mujer",73,"2015",5802
+"limache","no","francia","mujer",11,"2015",5802
+"limache","no","italia","hombre",59,"2015",5802
+"limache","sí, ahora mismo","venezuela","mujer",73,"2015",5802
+"linares","no","brasil","mujer",97,"2015",7401
+"linares","no","brasil","hombre",97,"2015",7401
+"llanquihue","no","italia","mujer",16,"2015",10107
+"los andes","sí, ahora mismo","colombia","mujer",106,"2015",5301
+"los andes","no","colombia","hombre",106,"2015",5301
+"los Ángeles","no","suiza","mujer",47,"2015",8301
+"los Ángeles","no","españa","mujer",72,"2015",8301
+"los lagos","sí, en otra época del año","méxico","mujer",28,"2015",14104
+"machalí","no","brasil","mujer",16,"2015",6108
+"machalí","sí, en otra época del año","colombia","mujer",17,"2015",6108
+"machalí","sí, ahora mismo","perú","mujer",38,"2015",6108
+"machalí","sí, ahora mismo","méxico","hombre",14,"2015",6108
+"machalí","no","argentina","mujer",27,"2015",6108
+"macul","sí, ahora mismo","venezuela","mujer",284,"2015",13118
+"maipú","no","colombia","mujer",541,"2015",13119
+"maipú","sí, en otra época del año","perú","mujer",363,"2015",13119
+"maipú","sí, en otra época del año","argentina","mujer",874,"2015",13119
+"maipú","no","italia","mujer",332,"2015",13119
+"maipú","no","perú","mujer",1008,"2015",13119
+"maipú","no","españa","mujer",292,"2015",13119
+"maipú","sí, en otra época del año","colombia","mujer",723,"2015",13119
+"melipilla","no","bolivia","hombre",111,"2015",13501
+"melipilla","no","venezuela","hombre",197,"2015",13501
+"melipilla","no","argentina","mujer",121,"2015",13501
+"natales","no","argentina","mujer",10,"2015",12401
+"natales","no","alemania","hombre",7,"2015",12401
+"natales","sí, en otra época del año","argentina","hombre",8,"2015",12401
+"Ñuñoa","sí, ahora mismo","ecuador","mujer",20,"2015",13120
+"Ñuñoa","no","colombia","hombre",44,"2015",13120
+"Ñuñoa","no","méxico","mujer",44,"2015",13120
+"Ñuñoa","sí, ahora mismo","perú","hombre",330,"2015",13120
+"Ñuñoa","sí, en otra época del año","argentina","mujer",49,"2015",13120
+"Ñuñoa","sí, en otra época del año","perú","hombre",40,"2015",13120
+"Ñuñoa","no","colombia","mujer",170,"2015",13120
+"Ñuñoa","sí, en otra época del año","cuba","hombre",23,"2015",13120
+"Ñuñoa","sí, en otra época del año","cuba","mujer",46,"2015",13120
+"Ñuñoa","no","ecuador","mujer",68,"2015",13120
+"Ñuñoa","no","francia","mujer",41,"2015",13120
+"Ñuñoa","no","méxico","hombre",132,"2015",13120
+"Ñuñoa","no","argentina","hombre",110,"2015",13120
+"Ñuñoa","sí, en otra época del año","bolivia","hombre",45,"2015",13120
+"Ñuñoa","sí, ahora mismo","brasil","hombre",27,"2015",13120
+"Ñuñoa","no","brasil","mujer",107,"2015",13120
+"Ñuñoa","sí, en otra época del año","argelia","mujer",79,"2015",13120
+"Ñuñoa","sí, en otra época del año","venezuela","hombre",10,"2015",13120
+"Ñuñoa","no","argentina","mujer",115,"2015",13120
+"osorno","no","argentina","mujer",142,"2015",10301
+"padre las casas","no","argentina","mujer",86,"2015",9112
+"padre las casas","sí, ahora mismo","argentina","mujer",86,"2015",9112
+"paillaco","sí, en otra época del año","no contesta","mujer",12,"2015",14107
+"panguipulli","sí, en otra época del año","argentina","hombre",26,"2015",14108
+"panguipulli","sí, en otra época del año","argentina","mujer",26,"2015",14108
+"pedro aguirre cerda","sí, en otra época del año","haití","mujer",60,"2015",13121
+"pedro aguirre cerda","no","haití","hombre",60,"2015",13121
+"pedro aguirre cerda","sí, ahora mismo","haití","hombre",35,"2015",13121
+"pedro aguirre cerda","no","haití","mujer",267,"2015",13121
+"peñalolén","sí, ahora mismo","colombia","hombre",132,"2015",13122
+"peñalolén","sí, ahora mismo","perú","mujer",561,"2015",13122
+"peñalolén","sí, ahora mismo","argentina","hombre",239,"2015",13122
+"peñalolén","no","perú","mujer",216,"2015",13122
+"peñalolén","no","argentina","hombre",239,"2015",13122
+"peñalolén","sí, ahora mismo","haití","mujer",107,"2015",13122
+"peñalolén","no","cuba","mujer",291,"2015",13122
+"pitrufquén","no","suiza","mujer",18,"2015",9114
+"porvenir","no","colombia","hombre",6,"2015",12301
+"porvenir","no","argentina","hombre",28,"2015",12301
+"porvenir","no","argentina","mujer",22,"2015",12301
+"pozo almonte","sí, ahora mismo","colombia","hombre",6,"2015",1401
+"pozo almonte","sí, ahora mismo","bolivia","hombre",11,"2015",1401
+"pozo almonte","sí, en otra época del año","perú","mujer",43,"2015",1401
+"pozo almonte","sí, en otra época del año","bolivia","hombre",8,"2015",1401
+"pozo almonte","no","perú","mujer",43,"2015",1401
+"pozo almonte","sí, en otra época del año","colombia","hombre",8,"2015",1401
+"pozo almonte","sí, en otra época del año","bolivia","mujer",60,"2015",1401
+"pozo almonte","no","bolivia","hombre",3,"2015",1401
+"pozo almonte","sí, ahora mismo","bolivia","mujer",29,"2015",1401
+"pozo almonte","no","bolivia","mujer",53,"2015",1401
+"providencia","no","cuba","mujer",120,"2015",13123
+"providencia","sí, en otra época del año","argentina","mujer",47,"2015",13123
+"providencia","sí, ahora mismo","bolivia","mujer",59,"2015",13123
+"providencia","sí, ahora mismo","marruecos","hombre",36,"2015",13123
+"providencia","no","rumanía","hombre",48,"2015",13123
+"providencia","no","italia","hombre",50,"2015",13123
+"providencia","sí, ahora mismo","israel","mujer",30,"2015",13123
+"providencia","sí, ahora mismo","españa","hombre",41,"2015",13123
+"providencia","sí, ahora mismo","brasil","mujer",146,"2015",13123
+"providencia","sí, en otra época del año","venezuela","mujer",131,"2015",13123
+"providencia","sí, en otra época del año","colombia","mujer",58,"2015",13123
+"providencia","sí, en otra época del año","brasil","mujer",38,"2015",13123
+"providencia","no","perú","hombre",64,"2015",13123
+"providencia","no","italia","mujer",66,"2015",13123
+"providencia","sí, en otra época del año","perú","mujer",47,"2015",13123
+"providencia","sí, ahora mismo","reino unido","mujer",32,"2015",13123
+"providencia","sí, en otra época del año","austria","mujer",57,"2015",13123
+"providencia","sí, ahora mismo","méxico","mujer",46,"2015",13123
+"providencia","no","perú","mujer",60,"2015",13123
+"providencia","no","alemania","mujer",68,"2015",13123
+"providencia","no","bolivia","hombre",57,"2015",13123
+"providencia","no","españa","mujer",46,"2015",13123
+"providencia","sí, en otra época del año","ecuador","mujer",28,"2015",13123
+"providencia","sí, ahora mismo","argentina","mujer",89,"2015",13123
+"providencia","no","uruguay","mujer",62,"2015",13123
+"providencia","sí, en otra época del año","australia","mujer",102,"2015",13123
+"providencia","no","venezuela","mujer",43,"2015",13123
+"providencia","no","españa","hombre",14,"2015",13123
+"providencia","sí, en otra época del año","brasil","hombre",46,"2015",13123
+"providencia","sí, ahora mismo","méxico","hombre",59,"2015",13123
+"pucón","no","colombia","mujer",42,"2015",9115
+"pudahuel","sí, en otra época del año","haití","mujer",126,"2015",13124
+"pudahuel","sí, ahora mismo","brasil","mujer",172,"2015",13124
+"pudahuel","sí, en otra época del año","brasil","hombre",83,"2015",13124
+"pudahuel","no","perú","mujer",285,"2015",13124
+"pudahuel","sí, en otra época del año","colombia","hombre",326,"2015",13124
+"pudahuel","no","venezuela","mujer",284,"2015",13124
+"pudahuel","sí, ahora mismo","haití","mujer",167,"2015",13124
+"puente alto","no","ecuador","hombre",304,"2015",13201
+"puente alto","sí, ahora mismo","perú","mujer",309,"2015",13201
+"puente alto","sí, en otra época del año","brasil","mujer",143,"2015",13201
+"puente alto","sí, ahora mismo","no contesta","mujer",149,"2015",13201
+"puente alto","no","paraguay","mujer",118,"2015",13201
+"puente alto","no","perú","mujer",379,"2015",13201
+"puente alto","no","costa rica","mujer",275,"2015",13201
+"puente alto","sí, ahora mismo","colombia","mujer",145,"2015",13201
+"puente alto","no","colombia","mujer",145,"2015",13201
+"puente alto","no","bolivia","mujer",197,"2015",13201
+"puente alto","sí, ahora mismo","uruguay","mujer",148,"2015",13201
+"puerto montt","no","perú","mujer",98,"2015",10101
+"puerto montt","no","noruega","mujer",67,"2015",10101
+"puerto montt","no","ecuador","hombre",197,"2015",10101
+"puerto montt","no","estados unidos","hombre",232,"2015",10101
+"puerto montt","sí, ahora mismo","guatemala","mujer",62,"2015",10101
+"puerto montt","sí, en otra época del año","perú","hombre",77,"2015",10101
+"punta arenas","no","argentina","mujer",100,"2015",12101
+"punta arenas","sí, en otra época del año","república dominicana","hombre",46,"2015",12101
+"punta arenas","no","argentina","hombre",93,"2015",12101
+"putre","sí, ahora mismo","bolivia","hombre",3,"2015",15201
+"putre","sí, ahora mismo","bolivia","mujer",7,"2015",15201
+"putre","no","bolivia","mujer",20,"2015",15201
+"putre","no","estados unidos","mujer",3,"2015",15201
+"putre","no","bolivia","hombre",8,"2015",15201
+"quilicura","sí, ahora mismo","ecuador","mujer",120,"2015",13125
+"quilicura","no","perú","hombre",79,"2015",13125
+"quilicura","sí, en otra época del año","perú","mujer",448,"2015",13125
+"quilicura","sí, en otra época del año","ecuador","mujer",137,"2015",13125
+"quilicura","sí, ahora mismo","colombia","mujer",322,"2015",13125
+"quilicura","no","haití","mujer",520,"2015",13125
+"quilicura","sí, en otra época del año","paraguay","mujer",84,"2015",13125
+"quilicura","sí, ahora mismo","venezuela","mujer",97,"2015",13125
+"quilicura","sí, en otra época del año","argentina","mujer",113,"2015",13125
+"quilicura","sí, ahora mismo","haití","hombre",93,"2015",13125
+"quilicura","sí, ahora mismo","haití","mujer",97,"2015",13125
+"quilicura","sí, en otra época del año","haití","mujer",539,"2015",13125
+"quillota","no","argentina","hombre",79,"2015",5501
+"quilpué","no","españa","mujer",43,"2015",5801
+"quilpué","sí, ahora mismo","brasil","mujer",59,"2015",5801
+"quilpué","sí, ahora mismo","alemania","mujer",64,"2015",5801
+"quinta normal","sí, en otra época del año","perú","mujer",48,"2015",13126
+"quinta normal","no","república dominicana","mujer",35,"2015",13126
+"quinta normal","no","perú","hombre",163,"2015",13126
+"quinta normal","no","ecuador","mujer",73,"2015",13126
+"quinta normal","no","brasil","mujer",35,"2015",13126
+"rancagua","no","argentina","hombre",80,"2015",6101
+"rancagua","sí, ahora mismo","venezuela","hombre",47,"2015",6101
+"rancagua","sí, ahora mismo","venezuela","mujer",47,"2015",6101
+"rancagua","sí, ahora mismo","francia","mujer",47,"2015",6101
+"rancagua","no","venezuela","mujer",47,"2015",6101
+"rancagua","no","paraguay","mujer",85,"2015",6101
+"recoleta","no","no contesta","mujer",128,"2015",13127
+"recoleta","sí, en otra época del año","colombia","mujer",41,"2015",13127
+"recoleta","sí, en otra época del año","perú","mujer",1128,"2015",13127
+"recoleta","no","bolivia","mujer",256,"2015",13127
+"recoleta","no","perú","hombre",781,"2015",13127
+"recoleta","no","venezuela","mujer",41,"2015",13127
+"recoleta","sí, en otra época del año","israel","hombre",72,"2015",13127
+"recoleta","sí, en otra época del año","venezuela","hombre",41,"2015",13127
+"recoleta","sí, en otra época del año","bolivia","mujer",256,"2015",13127
+"recoleta","no","venezuela","hombre",41,"2015",13127
+"recoleta","no","perú","mujer",932,"2015",13127
+"recoleta","sí, en otra época del año","república dominicana","hombre",39,"2015",13127
+"recoleta","sí, en otra época del año","perú","hombre",239,"2015",13127
+"renca","sí, ahora mismo","perú","mujer",79,"2015",13128
+"renca","sí, ahora mismo","perú","hombre",114,"2015",13128
+"renca","no","perú","mujer",194,"2015",13128
+"renca","sí, ahora mismo","colombia","hombre",187,"2015",13128
+"renca","no","portugal","hombre",126,"2015",13128
+"requínoa","no","francia","mujer",10,"2015",6116
+"río negro","no","españa","mujer",24,"2015",10305
+"san antonio","no","israel","hombre",33,"2015",5601
+"san antonio","no","australia","mujer",42,"2015",5601
+"san antonio","no","egipto","mujer",33,"2015",5601
+"san bernardo","no","ecuador","mujer",220,"2015",13401
+"san bernardo","no","argentina","hombre",220,"2015",13401
+"san felipe","no","argentina","mujer",85,"2015",5701
+"san felipe","no","estados unidos","hombre",25,"2015",5701
+"san felipe","no","reino unido","mujer",45,"2015",5701
+"san felipe","no","perú","hombre",57,"2015",5701
+"san felipe","sí, en otra época del año","ecuador","mujer",44,"2015",5701
+"san fernando","sí, en otra época del año","estados unidos","hombre",62,"2015",6301
+"san fernando","sí, ahora mismo","perú","hombre",52,"2015",6301
+"san javier","no","argentina","mujer",129,"2015",7406
+"san miguel","sí, en otra época del año","españa","mujer",61,"2015",13130
+"san miguel","sí, ahora mismo","ecuador","hombre",24,"2015",13130
+"san miguel","sí, en otra época del año","perú","mujer",47,"2015",13130
+"san miguel","no","perú","mujer",118,"2015",13130
+"san miguel","sí, ahora mismo","ecuador","mujer",142,"2015",13130
+"san miguel","no","brasil","mujer",81,"2015",13130
+"san miguel","no","ecuador","mujer",48,"2015",13130
+"san miguel","sí, en otra época del año","méxico","mujer",63,"2015",13130
+"san miguel","no","siria","mujer",12,"2015",13130
+"san miguel","no","argentina","mujer",74,"2015",13130
+"san miguel","no","china","hombre",25,"2015",13130
+"san miguel","sí, ahora mismo","australia","mujer",25,"2015",13130
+"san miguel","sí, en otra época del año","ecuador","mujer",24,"2015",13130
+"san miguel","sí, en otra época del año","perú","hombre",24,"2015",13130
+"san miguel","sí, ahora mismo","república dominicana","mujer",36,"2015",13130
+"san miguel","no","españa","mujer",25,"2015",13130
+"san miguel","no","suecia","mujer",81,"2015",13130
+"san pedro de la paz","no","ecuador","mujer",61,"2015",8108
+"santa cruz","sí, ahora mismo","perú","mujer",20,"2015",6310
+"santiago","no","brasil","mujer",50,"2015",13101
+"santiago","sí, ahora mismo","colombia","hombre",339,"2015",13101
+"santiago","no","haití","mujer",40,"2015",13101
+"santiago","no","reino unido","mujer",95,"2015",13101
+"santiago","sí, ahora mismo","perú","hombre",414,"2015",13101
+"santiago","no","perú","mujer",522,"2015",13101
+"santiago","no","uruguay","hombre",17,"2015",13101
+"santiago","no","colombia","mujer",286,"2015",13101
+"santiago","sí, en otra época del año","colombia","mujer",1001,"2015",13101
+"santiago","no","argentina","mujer",40,"2015",13101
+"santiago","sí, ahora mismo","perú","mujer",281,"2015",13101
+"santiago","sí, ahora mismo","colombia","mujer",30,"2015",13101
+"santiago","no","china","mujer",37,"2015",13101
+"santiago","no","colombia","hombre",52,"2015",13101
+"santiago","sí, ahora mismo","uruguay","hombre",124,"2015",13101
+"santiago","no","ecuador","hombre",1000,"2015",13101
+"santiago","sí, ahora mismo","ecuador","mujer",757,"2015",13101
+"santiago","sí, en otra época del año","perú","hombre",62,"2015",13101
+"santiago","sí, ahora mismo","república dominicana","mujer",32,"2015",13101
+"santiago","no","hungría","hombre",50,"2015",13101
+"santiago","no","república dominicana","mujer",46,"2015",13101
+"santiago","sí, en otra época del año","colombia","hombre",308,"2015",13101
+"santiago","no","perú","hombre",269,"2015",13101
+"santiago","sí, en otra época del año","perú","mujer",29,"2015",13101
+"santiago","sí, ahora mismo","venezuela","hombre",63,"2015",13101
+"santiago","no","venezuela","mujer",63,"2015",13101
+"talagante","no","brasil","mujer",96,"2015",13601
+"talca","no","argentina","mujer",45,"2015",7101
+"talca","sí, en otra época del año","españa","hombre",54,"2015",7101
+"temuco","sí, en otra época del año","perú","mujer",77,"2015",9101
+"temuco","no","argentina","hombre",87,"2015",9101
+"temuco","no","italia","mujer",153,"2015",9101
+"temuco","no","ecuador","mujer",93,"2015",9101
+"temuco","no","italia","hombre",153,"2015",9101
+"temuco","no","perú","hombre",89,"2015",9101
+"temuco","sí, en otra época del año","argentina","mujer",96,"2015",9101
+"temuco","no","españa","hombre",306,"2015",9101
+"tocopilla","sí, en otra época del año","colombia","mujer",2,"2015",2301
+"tocopilla","no","perú","mujer",2,"2015",2301
+"valdivia","no","colombia","mujer",132,"2015",14101
+"valdivia","sí, ahora mismo","argentina","hombre",74,"2015",14101
+"valdivia","sí, ahora mismo","república checa","mujer",59,"2015",14101
+"vallenar","no","argentina","mujer",51,"2015",3301
+"vallenar","no","costa rica","mujer",32,"2015",3301
+"vallenar","sí, ahora mismo","colombia","mujer",39,"2015",3301
+"vallenar","no","colombia","mujer",36,"2015",3301
+"valparaíso","no","francia","mujer",123,"2015",5101
+"valparaíso","sí, ahora mismo","estados unidos","hombre",40,"2015",5101
+"valparaíso","no","perú","mujer",63,"2015",5101
+"valparaíso","sí, en otra época del año","colombia","mujer",8,"2015",5101
+"valparaíso","no","costa rica","mujer",123,"2015",5101
+"valparaíso","sí, ahora mismo","cuba","hombre",85,"2015",5101
+"valparaíso","sí, ahora mismo","costa rica","mujer",123,"2015",5101
+"vicuña","no","perú","hombre",38,"2015",4106
+"vicuña","no","perú","mujer",38,"2015",4106
+"vicuña","no","bolivia","mujer",65,"2015",4106
+"villa alemana","sí, en otra época del año","estados unidos","hombre",80,"2015",5804
+"villa alemana","sí, en otra época del año","argentina","hombre",139,"2015",5804
+"villa alemana","no","suecia","hombre",104,"2015",5804
+"villa alemana","no","méxico","mujer",129,"2015",5804
+"villa alemana","no","ecuador","mujer",129,"2015",5804
+"villarrica","sí, ahora mismo","colombia","mujer",73,"2015",9120
+"villarrica","sí, en otra época del año","australia","hombre",36,"2015",9120
+"villarrica","no","eslovaquia","hombre",30,"2015",9120
+"villarrica","no","argentina","mujer",64,"2015",9120
+"villarrica","sí, en otra época del año","panamá","hombre",22,"2015",9120
+"viña del mar","no","italia","mujer",58,"2015",5109
+"viña del mar","no","españa","hombre",62,"2015",5109
+"viña del mar","no","reino unido","mujer",107,"2015",5109
+"viña del mar","no","colombia","mujer",57,"2015",5109
+"viña del mar","sí, ahora mismo","argentina","hombre",194,"2015",5109
+"viña del mar","no","ecuador","mujer",54,"2015",5109
+"viña del mar","sí, ahora mismo","colombia","mujer",75,"2015",5109
+"viña del mar","sí, ahora mismo","argentina","mujer",97,"2015",5109
